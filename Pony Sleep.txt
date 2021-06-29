@@ -1,0 +1,162 @@
+["children"] = {
+	[1] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Angles"] = Angle(-10.47566986084, 86.76195526123, 90.58935546875),
+			["UniqueID"] = "1366951730",
+			["Position"] = Vector(-14.08203125, -2.69384765625, 18.812622070313),
+			["Hide"] = true,
+			["Name"] = "Creator: GearBell",
+			["ClassName"] = "text",
+		},
+	},
+	[2] = {
+		["children"] = {
+		},
+		["self"] = {
+			["ClassName"] = "event",
+			["UniqueID"] = "2076411246",
+			["Event"] = "say",
+			["Arguments"] = "!sleep@@9999",
+			["Invert"] = true,
+		},
+	},
+	[3] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Angles"] = Angle(-2.3905660782475e-005, -13.101970672607, 9.8183973022969e-006),
+			["Position"] = Vector(-0.1541748046875, -0.66455078125, 0.00390625),
+			["Bone"] = "lrigneck 2",
+			["UniqueID"] = "462145821",
+			["ClassName"] = "bone",
+		},
+	},
+	[4] = {
+		["children"] = {
+			[1] = {
+				["children"] = {
+				},
+				["self"] = {
+					["Event"] = "button",
+					["Arguments"] = "p",
+					["UniqueID"] = "2660533023",
+					["ClassName"] = "event",
+				},
+			},
+		},
+		["self"] = {
+			["UniqueID"] = "1697217446",
+			["Name"] = "eyelids CHANGE ITS COLOR",
+			["Scale"] = Vector(0.77999997138977, 0.77999997138977, 0.8299999833107),
+			["Angles"] = Angle(0, 6.0659999847412, 0),
+			["Position"] = Vector(-0.6322021484375, -1.8240000009537, 0.19499999284744),
+			["Color"] = Vector(163, 95, 47),
+			["Bone"] = "lrigscull",
+			["Model"] = "models/pac/default.mdl",
+			["ClassName"] = "model",
+		},
+	},
+	[5] = {
+		["children"] = {
+		},
+		["self"] = {
+			["URL"] = "https://www.dropbox.com/s/e7q90sqtwvks7m1/sleep.txt?dl=0",
+			["ClassName"] = "custom_animation",
+			["UniqueID"] = "3594864484",
+			["EditorExpand"] = true,
+		},
+	},
+	[6] = {
+		["children"] = {
+			[1] = {
+				["children"] = {
+				},
+				["self"] = {
+					["Max"] = 1.5,
+					["ClassName"] = "proxy",
+					["UniqueID"] = "2105713143",
+					["Min"] = 1,
+					["VariableName"] = "Size",
+				},
+			},
+		},
+		["self"] = {
+			["Size"] = 1.3514927991873,
+			["Bone"] = "lrigspine 1",
+			["UniqueID"] = "889386363",
+			["ClassName"] = "bone",
+		},
+	},
+	[7] = {
+		["children"] = {
+			[1] = {
+				["children"] = {
+				},
+				["self"] = {
+					["Max"] = 5,
+					["ClassName"] = "proxy",
+					["UniqueID"] = "981914070",
+					["Axis"] = "y",
+					["VariableName"] = "Angles",
+				},
+			},
+		},
+		["self"] = {
+			["Angles"] = Angle(-0.077767118811607, 3.5149281024933, -0.015703663229942),
+			["Bone"] = "mane 03",
+			["UniqueID"] = "2832279230",
+			["ClassName"] = "bone",
+		},
+	},
+	[8] = {
+		["children"] = {
+			[1] = {
+				["children"] = {
+				},
+				["self"] = {
+					["Max"] = 2,
+					["ClassName"] = "proxy",
+					["UniqueID"] = "4254945422",
+					["Min"] = 1,
+					["VariableName"] = "Size",
+				},
+			},
+		},
+		["self"] = {
+			["Size"] = 1.7029855983745,
+			["Bone"] = "lrigspine 2",
+			["UniqueID"] = "609181591",
+			["ClassName"] = "bone",
+		},
+	},
+	[9] = {
+		["children"] = {
+		},
+		["self"] = {
+			["ClassName"] = "animation",
+			["UniqueID"] = "1738128251",
+			["SequenceName"] = "ragdoll",
+		},
+	},
+	[10] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Angles"] = Angle(-2.5394480228424, 71.533409118652, 90.847717285156),
+			["UniqueID"] = "2084576367",
+			["ClassName"] = "text",
+			["Position"] = Vector(-15.05859375, -11.4150390625, 36.34521484375),
+			["Hide"] = true,
+			["Name"] = "Controls",
+			["Text"] = "\"!sleep\" to sleep, hold (P) to open eyes.",
+		},
+	},
+},
+["self"] = {
+	["Name"] = "pony sleep pac",
+	["ClassName"] = "group",
+	["UniqueID"] = "3292598374",
+	["EditorExpand"] = true,
+},
