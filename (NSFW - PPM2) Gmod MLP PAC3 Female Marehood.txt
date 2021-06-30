@@ -1,0 +1,22 @@
+["children"] = {
+	[1] = {
+		["children"] = {
+		},
+		["self"] = {
+			["ClassName"] = "model",
+			["UniqueID"] = "4070546623",
+			["Position"] = Vector(0.83399999141693, 27.847999572754, -1.069000005722),
+			["Color"] = Vector(176, 0, 208),
+			["Bone"] = "lrigpelvis",
+			["Model"] = "models/props_durpy/nsfw/Pony/d_ponypussy_v1.mdl",
+			["Angles"] = Angle(2.0999941825867, -8.9706491053221e-06, 88.516777038574),
+		},
+	},
+},
+["self"] = {
+	["EditorExpand"] = true,
+	["UniqueID"] = "1885131041",
+	["ClassName"] = "group",
+	["Name"] = "Marehood",
+	["Description"] = "add parts to me!",
+},
