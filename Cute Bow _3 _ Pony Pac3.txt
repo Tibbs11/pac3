@@ -1,0 +1,28 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1459017459",
+				["AimPartUID"] = "3687142106",
+				["Material"] = "models/debug/debugwhite",
+				["AngleOffset"] = Angle(-12.5, 0, 0),
+				["Position"] = Vector(-8.685791015625, -6.4696044921875, -0.11767578125),
+				["Angles"] = Angle(3.451851606369, 28.444618225098, 86.964202880859),
+				["Size"] = 0.6,
+				["PositionOffset"] = Vector(2.5, 0, -27.299999237061),
+				["Color"] = Vector(216, 0, 255),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/props_pony/flitter_bow.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Bow <3",
+		["ClassName"] = "group",
+		["UniqueID"] = "2070823202",
+		["Description"] = "add parts to me!",
+	},
+},
