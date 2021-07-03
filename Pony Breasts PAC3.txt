@@ -1,0 +1,95 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "3514803399",
+										["Model"] = "models/pac/default.mdl",
+										["Color"] = Vector(72, 0, 14),
+										["Size"] = 0.025,
+										["Name"] = "default 2",
+										["Position"] = Vector(0.01171875, 0.9765625, 0.0341796875),
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Model"] = "models/pac/default.mdl",
+												["ClassName"] = "model",
+												["UniqueID"] = "1141700689",
+												["Size"] = 0.025,
+												["Color"] = Vector(72, 0, 14),
+												["EditorExpand"] = true,
+												["Name"] = "default",
+												["Position"] = Vector(-0.0048828125, 1.02734375, 0.09765625),
+											},
+										},
+									},
+									["self"] = {
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+										["UniqueID"] = "4027485263",
+										["Size"] = 0.125,
+										["Color"] = Vector(72, 0, 14),
+										["EditorExpand"] = true,
+										["Name"] = "Nipple",
+										["Position"] = Vector(-0.0087890625, -0.0234375, 3.9931640625),
+									},
+								},
+							},
+							["self"] = {
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+								["UniqueID"] = "3280304899",
+								["Size"] = 0.125,
+								["Color"] = Vector(72, 0, 14),
+								["EditorExpand"] = true,
+								["Name"] = "Nipples",
+								["Position"] = Vector(-0.00439453125, 2.310546875, -0.015625),
+							},
+						},
+					},
+					["self"] = {
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "2328405333",
+						["Size"] = 0.35,
+						["Color"] = Vector(145, 42, 42),
+						["EditorExpand"] = true,
+						["Name"] = "Boob",
+						["Position"] = Vector(-0.0038999998942018, 0.052700001746416, -3.6138000488281),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "4118030572",
+				["Name"] = "Boobs",
+				["Position"] = Vector(-5.9695129394531, 5.815673828125, 2.0646667480469),
+				["EditorExpand"] = true,
+				["Size"] = 0.35,
+				["Angles"] = Angle(7.5132076744922e-005, 28.298265457153, 2.1344341803342e-005),
+				["Color"] = Vector(145, 42, 42),
+				["Bone"] = "lrigpelvis",
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Breasts",
+		["ClassName"] = "group",
+		["UniqueID"] = "3959767924",
+		["Description"] = "Please put your parts in groups!",
+	},
+},
