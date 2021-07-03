@@ -1,0 +1,670 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Alpha"] = 0,
+				["ClassName"] = "text",
+				["UniqueID"] = "2614595343",
+				["Name"] = "Put together by IvalynInk",
+				["Size"] = 0,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1024801586",
+								["Scale"] = Vector(0.60000002384186, 0.80000001192093, 0.80000001192093),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-8.7692260742188, -8.236328125, 8.2322216033936),
+								["Color"] = Vector(45, 45, 45),
+								["Angles"] = Angle(-9.7887182235718, 78.538146972656, -9.5302575573442e-006),
+								["Model"] = "models/props_vehicles/tire001b_truck.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "4249560735",
+								["Scale"] = Vector(0.60000002384186, 0.80000001192093, 0.80000001192093),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-8.3873291015625, -7.091796875, 8.3783721923828),
+								["Color"] = Vector(45, 45, 45),
+								["Angles"] = Angle(9.8183973022969e-006, 78.538154602051, 9.3915105026099e-006),
+								["Model"] = "models/props_vehicles/tire001b_truck.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "4108079827",
+								["Scale"] = Vector(0.60000002384186, 0.80000001192093, 0.80000001192093),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-8.601806640625, -7.7060546875, 8.3444404602051),
+								["Color"] = Vector(45, 45, 45),
+								["Angles"] = Angle(-3.4536948204041, 78.538162231445, 1.2829906154366e-005),
+								["Model"] = "models/props_vehicles/tire001b_truck.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "1504694815",
+						["Model"] = "models/pac/default.mdl",
+						["Size"] = 0.025,
+						["Bone"] = "lrigscull",
+						["Name"] = "RingsL",
+						["Hide"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3994089587",
+								["Scale"] = Vector(-0.60000002384186, -0.80000001192093, -0.80000001192093),
+								["ClassName"] = "model",
+								["Size"] = -0.025,
+								["Position"] = Vector(-8.640869140625, -8.2470703125, 8.3951854705811),
+								["Color"] = Vector(45, 45, 45),
+								["Angles"] = Angle(9.7889995574951, 78.538146972656, -9.5302575573442e-006),
+								["Model"] = "models/props_vehicles/tire001b_truck.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1948656005",
+								["Scale"] = Vector(-0.60000002384186, -0.80000001192093, -0.80000001192093),
+								["ClassName"] = "model",
+								["Size"] = -0.025,
+								["Position"] = Vector(-8.3873291015625, -7.091796875, 8.3783721923828),
+								["Color"] = Vector(45, 45, 45),
+								["Angles"] = Angle(9.8183973022969e-006, 78.538154602051, 9.3915105026099e-006),
+								["Model"] = "models/props_vehicles/tire001b_truck.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2762480018",
+								["Scale"] = Vector(-0.60000002384186, -0.80000001192093, -0.80000001192093),
+								["ClassName"] = "model",
+								["Size"] = -0.025,
+								["Position"] = Vector(-8.577880859375, -7.6708984375, 8.3430557250977),
+								["Color"] = Vector(45, 45, 45),
+								["Angles"] = Angle(0, 78.538230895996, -5.0420781917637e-005),
+								["Model"] = "models/props_vehicles/tire001b_truck.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2535543117",
+						["Hide"] = true,
+						["Name"] = "RingsR",
+						["Alpha"] = 0,
+						["ClassName"] = "model",
+						["Size"] = 0.025,
+						["Bone"] = "lrigscull",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(0.190673828125, 0.0166015625, -16.691011428833),
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3275057703",
+								["Name"] = "leftB",
+								["Scale"] = Vector(1.5, 1.5, 1.5),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Color"] = Vector(45, 45, 45),
+								["Position"] = Vector(-7.8863525390625, -5.814453125, 7.7861022949219),
+								["Model"] = "models/pac/default.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+								["UniqueID"] = "3418201972",
+								["Size"] = 0.025,
+								["Color"] = Vector(45, 45, 45),
+								["Position"] = Vector(-6.5159912109375, -4.1650390625, 7.2864685058594),
+								["Name"] = "leftA",
+								["Scale"] = Vector(1.7999999523163, 1.7999999523163, 1.7999999523163),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1518808134",
+								["Name"] = "rightA",
+								["Scale"] = Vector(1.7999999523163, 1.7999999523163, 1.7999999523163),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Color"] = Vector(45, 45, 45),
+								["Position"] = Vector(-6.5169677734375, -4.1123046875, -7.1642761230469),
+								["Model"] = "models/pac/default.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3500715979",
+								["Name"] = "rightB",
+								["Scale"] = Vector(1.5, 1.5, 1.5),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Color"] = Vector(45, 45, 45),
+								["Position"] = Vector(-7.5562744140625, -5.625, -7.8443908691406),
+								["Model"] = "models/pac/default.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "5541324",
+						["Model"] = "models/pac/default.mdl",
+						["Bone"] = "lrigscull",
+						["Name"] = "Gauges",
+						["Size"] = 0.025,
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-6.3106079101563, -7.8525390625, 5.4901757240295),
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "3795111417",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-6.718994140625, -7.421875, 5.6805377006531),
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "2748645444",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-5.9545288085938, -7.400390625, -5.4000382423401),
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "4094543483",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-5.6837768554688, -7.896484375, -5.1838006973267),
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "471702283",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "1990070449",
+						["Model"] = "models/pac/default.mdl",
+						["Bone"] = "lrigscull",
+						["Name"] = "IdkWtfThisIsCalled",
+						["Size"] = 0.025,
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3910895161",
+								["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.69999998807907),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-8.5361938476563, -7.296875, -8.2588500976563),
+								["Color"] = Vector(59, 59, 59),
+								["Angles"] = Angle(9.0890321731567, -7.1471519470215, 80.820579528809),
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1441169906",
+								["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.69999998807907),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-8.6152954101563, -7.2763671875, 8.35498046875),
+								["Color"] = Vector(59, 59, 59),
+								["Angles"] = Angle(1.0778891919472e-005, -6.7708115577698, 99.032302856445),
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "3577999218",
+						["Model"] = "models/pac/default.mdl",
+						["Bone"] = "lrigscull",
+						["Name"] = "Whateverthesearecalled",
+						["Size"] = 0.025,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "4157935457",
+				["Name"] = "Ears",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Alpha"] = 0,
+				["ClassName"] = "text",
+				["UniqueID"] = "1722094050",
+				["Size"] = 0,
+				["Name"] = "Delete/hide whatever you dont want",
+				["Position"] = Vector(0, 0, -1.525390625),
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "4139013249",
+										["Position"] = Vector(1.14892578125, -0.0001220703125, 0.1201171875),
+										["Color"] = Vector(140, 0, 255),
+										["Size"] = 0.028,
+										["Model"] = "models/pac/default.mdl",
+										["Material"] = "models/debug/debugwhite",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3419799021",
+								["Scale"] = Vector(1, 0.89999997615814, 0.10000000149012),
+								["Material"] = "models/debug/debugwhite",
+								["EditorExpand"] = true,
+								["Size"] = 0.05,
+								["Angles"] = Angle(0.00011168426863151, 50.497623443604, 90.000045776367),
+								["Color"] = Vector(177, 177, 177),
+								["Position"] = Vector(8.2149047851563, 0.15234375, 0.35052490234375),
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "4121193812",
+						["Model"] = "models/pac/default.mdl",
+						["Color"] = Vector(136, 136, 136),
+						["Bone"] = "lrigscull",
+						["Name"] = "Septum",
+						["Size"] = 0.025,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "213931689",
+								["Name"] = "R1",
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(8.7421875, -1.7060546875, -1.3988037109375),
+								["Color"] = Vector(187, 187, 187),
+								["Bone"] = "lrigscull",
+								["Model"] = "models/pac/default.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "6361191",
+								["Name"] = "R2",
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(7.822265625, -2.0712890625, -1.48046875),
+								["Color"] = Vector(187, 187, 187),
+								["Bone"] = "lrigscull",
+								["Model"] = "models/pac/default.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3102057605",
+								["Name"] = "L1",
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(8.835205078125, -1.7763671875, 1.872314453125),
+								["Color"] = Vector(187, 187, 187),
+								["Bone"] = "lrigscull",
+								["Model"] = "models/pac/default.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2532376193",
+								["Name"] = "L2",
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(7.877197265625, -2.177734375, 1.9418334960938),
+								["Color"] = Vector(187, 187, 187),
+								["Bone"] = "lrigscull",
+								["Model"] = "models/pac/default.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "1719996357",
+						["Size"] = 0.025,
+						["Position"] = Vector(-1.7776489257813, 0.2197265625, 0.0006103515625),
+						["Bone"] = "lrigscull",
+						["Name"] = "BridgePeircings",
+						["Angles"] = Angle(2.9882080525567e-006, 8.3480024337769, 4.4689713831758e-006),
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Position"] = Vector(0.466796875, 0.556640625, 0.040313720703125),
+										["Model"] = "models/pac/default.mdl",
+										["Size"] = 0.025,
+										["Name"] = "Left",
+										["UniqueID"] = "3956423305",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Position"] = Vector(-0.67919921875, -6.876953125, 6.3256530761719),
+								["Model"] = "models/pac/default.mdl",
+								["Size"] = 0.025,
+								["Name"] = "Left",
+								["UniqueID"] = "619068785",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Position"] = Vector(0.471435546875, 0.572265625, -0.071258544921875),
+										["Model"] = "models/pac/default.mdl",
+										["Size"] = 0.025,
+										["Name"] = "Right",
+										["UniqueID"] = "482102366",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Position"] = Vector(-0.682861328125, -6.8740234375, -5.994140625),
+								["Model"] = "models/pac/default.mdl",
+								["Size"] = 0.025,
+								["Name"] = "Right",
+								["UniqueID"] = "1300140386",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "320046682",
+						["Model"] = "models/pac/default.mdl",
+						["Size"] = 0.025,
+						["Bone"] = "lrigscull",
+						["Name"] = "Eyebrows",
+						["Position"] = Vector(0.00042724609375, 0.6943359375, -0.00750732421875),
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["UniqueID"] = "3129160764",
+								["Color"] = Vector(187, 187, 187),
+								["Size"] = 0.025,
+								["Model"] = "models/pac/default.mdl",
+								["Position"] = Vector(8.9461669921875, 2.177734375, -0.86471557617188),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["UniqueID"] = "3976060158",
+								["Color"] = Vector(187, 187, 187),
+								["Size"] = 0.025,
+								["Model"] = "models/pac/default.mdl",
+								["Position"] = Vector(8.9461822509766, 2.169921875, 1.4859924316406),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "1719958245",
+						["Model"] = "models/pac/default.mdl",
+						["Size"] = 0.025,
+						["Bone"] = "lrigscull",
+						["Name"] = "SnakeBites",
+						["Position"] = Vector(-1.8671264648438, 0.181640625, 0.00042724609375),
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Position"] = Vector(9.5457916259766, 2.1533203125, 0.32736206054688),
+								["Model"] = "models/pac/default.mdl",
+								["Size"] = 0.025,
+								["Name"] = "Ball",
+								["UniqueID"] = "2400026343",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3637560698",
+								["Hide"] = true,
+								["Name"] = "Ring",
+								["Scale"] = Vector(0.5, 0.40000000596046, 0.10000000149012),
+								["Material"] = "models/debug/debugwhite",
+								["Size"] = 0.025,
+								["Position"] = Vector(9.7163543701172, 1.4853515625, 0.28419494628906),
+								["Color"] = Vector(0, 0, 0),
+								["Angles"] = Angle(3.20165128187e-007, 0, -1.5305976867676),
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "1171790863",
+						["Model"] = "models/pac/default.mdl",
+						["Size"] = 0.025,
+						["Bone"] = "lrigscull",
+						["Name"] = "Labret",
+						["Position"] = Vector(-1.8607177734375, -0.037109375, 0),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3155507376",
+				["Name"] = "Face",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Alpha"] = 0,
+				["ClassName"] = "text",
+				["UniqueID"] = "2051120923",
+				["Size"] = 0,
+				["Name"] = "Tried to get it as perfect as I could",
+				["EditorExpand"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Alpha"] = 0,
+				["ClassName"] = "text",
+				["UniqueID"] = "1817573326",
+				["Name"] = "Dont wear all of it together. or i h8 u",
+				["Size"] = 0,
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1835746236",
+								["Scale"] = Vector(0.60000002384186, 0.40000000596046, 1.7000000476837),
+								["ClassName"] = "model",
+								["Size"] = 0.1,
+								["Position"] = Vector(2.4990234375, -2.0361328125, 4.03955078125),
+								["Color"] = Vector(5, 255, 68),
+								["Bone"] = "mane 05",
+								["Model"] = "models/pac/default.mdl",
+								["Angles"] = Angle(-29.821886062622, -99.866279602051, -75.580993652344),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1121068040",
+								["Scale"] = Vector(0.60000002384186, 0.40000000596046, 1.7000000476837),
+								["ClassName"] = "model",
+								["Size"] = 0.1,
+								["Position"] = Vector(2.91796875, -2.68017578125, 3.362548828125),
+								["Color"] = Vector(5, 255, 68),
+								["Bone"] = "mane 05",
+								["Model"] = "models/pac/default.mdl",
+								["Angles"] = Angle(-29.821886062622, -99.866279602051, -75.580993652344),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "615977933",
+						["Model"] = "models/pac/default.mdl",
+						["Size"] = 0.025,
+						["Bone"] = "mane 05",
+						["Name"] = "Hair Peice (Adjust me)",
+						["Hide"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Hair",
+				["ClassName"] = "group",
+				["UniqueID"] = "1605416468",
+				["Hide"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Female Peircings and Accessories",
+		["ClassName"] = "group",
+		["UniqueID"] = "2878501319",
+		["Description"] = "add parts to me!",
+	},
+},
