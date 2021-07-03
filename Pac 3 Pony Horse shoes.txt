@@ -1,0 +1,75 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(2.537109375, -3.1590576171875, 0.1044921875),
+				["Name"] = "backl",
+				["Scale"] = Vector(0.80000001192093, 0.89999997615814, 1),
+				["Material"] = "models/debug/debugwhite",
+				["ClassName"] = "model",
+				["Size"] = 0.35,
+				["Angles"] = Angle(0.74339205026627, -3.0631923675537, -95.045875549316),
+				["Color"] = Vector(140, 140, 140),
+				["Bone"] = "lrig lefteg bl rightearhoof",
+				["Model"] = "models/props_2fort/horseshoe001.mdl",
+				["UniqueID"] = "1549778521",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(2.1937942504883, -2.9995727539063, -0.093719482421875),
+				["Name"] = "frontr",
+				["Material"] = "models/debug/debugwhite",
+				["ClassName"] = "model",
+				["Size"] = 0.325,
+				["Angles"] = Angle(-0.023862548172474, 2.0722095966339, -89.999633789063),
+				["Color"] = Vector(140, 140, 140),
+				["Bone"] = "lrig lefteg fr fronthoof",
+				["Model"] = "models/props_2fort/horseshoe001.mdl",
+				["UniqueID"] = "228691441",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(2.1936187744141, -2.9994812011719, 0.260498046875),
+				["Name"] = "frontl",
+				["Material"] = "models/debug/debugwhite",
+				["ClassName"] = "model",
+				["Size"] = 0.325,
+				["Angles"] = Angle(-0.023862548172474, 2.0722095966339, -89.999633789063),
+				["Color"] = Vector(140, 140, 140),
+				["Bone"] = "lrig lefteg fl fronthoof",
+				["Model"] = "models/props_2fort/horseshoe001.mdl",
+				["UniqueID"] = "228691441",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(2.537109375, -3.1590576171875, 0.1044921875),
+				["Name"] = "backr",
+				["Scale"] = Vector(0.80000001192093, 0.89999997615814, 1),
+				["Material"] = "models/debug/debugwhite",
+				["ClassName"] = "model",
+				["Size"] = 0.35,
+				["Angles"] = Angle(0.7433887720108, -3.0631947517395, -89.997375488281),
+				["Color"] = Vector(140, 140, 140),
+				["Bone"] = "lrig lefteg br rightearhoof",
+				["Model"] = "models/props_2fort/horseshoe001.mdl",
+				["UniqueID"] = "228691441",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "386599196",
+		["Name"] = "Horseshoes",
+	},
+},
