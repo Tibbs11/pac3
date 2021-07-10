@@ -1,0 +1,69 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Size"] = 1.225,
+				["Bone"] = "lrigscull",
+				["UniqueID"] = "112468522",
+				["ClassName"] = "bone",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["UniqueID"] = "883950191",
+				["Size"] = 0.575,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["UniqueID"] = "2109572052",
+				["Bone"] = "mane 03",
+				["Size"] = 0.75,
+				["Scale"] = Vector(0.89999997615814, 1, 1),
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "3049022968",
+		["ClassName"] = "group",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "http://puu.sh/dPadP/a90f9e240c.mp3",
+						["ClassName"] = "webaudio",
+						["UniqueID"] = "1281995677",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "draw",
+				["Invert"] = true,
+				["Event"] = "is_crouching",
+				["UniqueID"] = "3354137007",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3241684164",
+		["Name"] = "Song (You can always change it)",
+	},
+},
