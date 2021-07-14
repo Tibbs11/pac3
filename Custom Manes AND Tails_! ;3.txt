@@ -1,0 +1,349 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.8,
+				["UniqueID"] = "2116428268",
+				["Angles"] = Angle(1.1949419975281, 91.77123260498, 90.083297729492),
+				["Size"] = 0.525,
+				["Position"] = Vector(0.014251708984375, -1.6135864257813, 77.203002929688),
+				["Color"] = Vector(220, 0, 255),
+				["OutlineColor"] = Vector(0, 0, 0),
+				["ClassName"] = "text",
+				["Text"] = "Got any requests? Contact Me! :D",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 1.1,
+				["UniqueID"] = "1010906542",
+				["Angles"] = Angle(1.1949419975281, 91.77123260498, 90.083297729492),
+				["Size"] = 0.475,
+				["Position"] = Vector(0.026947021484375, -1.2817993164063, 93.0888671875),
+				["Color"] = Vector(255, 0, 0),
+				["OutlineColor"] = Vector(0, 0, 0),
+				["ClassName"] = "text",
+				["Text"] = "Thank you for picking and using my PAC3's!",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.9,
+				["UniqueID"] = "2745598586",
+				["Name"] = "My Pastebin Page:",
+				["Angles"] = Angle(1.1949419975281, 91.77123260498, 90.083297729492),
+				["Size"] = 0.525,
+				["Position"] = Vector(0.0048828125, -1.8626708984375, 65.30078125),
+				["Color"] = Vector(29, 0, 255),
+				["OutlineColor"] = Vector(0, 0, 0),
+				["ClassName"] = "text",
+				["Text"] = "http://pastebin.com/u/KittyShy",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "4152787049",
+				["Outline"] = 0.6,
+				["Position"] = Vector(-0.0032958984375, -2.0960693359375, 54.08203125),
+				["Size"] = 0.525,
+				["Color"] = Vector(0, 161, 255),
+				["Angles"] = Angle(1.1949419975281, 91.77123260498, 90.083297729492),
+				["ClassName"] = "text",
+				["Text"] = "I'm glad im able to do something nice for you guys, and it makes me happy to see that you all like my work!",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.5,
+				["UniqueID"] = "1716431526",
+				["Angles"] = Angle(1.1949419975281, 91.77123260498, 90.083297729492),
+				["Size"] = 0.525,
+				["Position"] = Vector(0.000518798828125, -1.9885864257813, 59.2373046875),
+				["Color"] = Vector(0, 63, 255),
+				["OutlineColor"] = Vector(0, 0, 0),
+				["ClassName"] = "text",
+				["Text"] = "Thank you guys SO MUCH for all the love and support! ",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.7,
+				["UniqueID"] = "871631063",
+				["Name"] = "\"I really hope you like them, and if you don't credit me no more will be made. ;3;\"",
+				["Angles"] = Angle(1.1949419975281, 91.77123260498, 90.083297729492),
+				["Size"] = 0.475,
+				["Position"] = Vector(0.0184326171875, -1.5083618164063, 82.258972167969),
+				["Color"] = Vector(255, 0, 191),
+				["OutlineColor"] = Vector(0, 0, 0),
+				["ClassName"] = "text",
+				["Text"] = "These models were NOT created by me! I only put them into PAC for you guys <3",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.8,
+				["Position"] = Vector(0.009979248046875, -1.7215576171875, 72.05078125),
+				["Name"] = "My Steam Page(Feel Free to Add Me or Message Me!):",
+				["ClassName"] = "text",
+				["Size"] = 0.525,
+				["Color"] = Vector(127, 0, 255),
+				["Angles"] = Angle(1.1949419975281, 91.77123260498, 90.083297729492),
+				["UniqueID"] = "3240129371",
+				["Text"] = "http://steamcommunity.com/id/KittyShyPAC3/",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.7,
+				["UniqueID"] = "2347700936",
+				["Name"] = "\"I really hope you like them, and if you don't credit me no more will be made. ;3;\"",
+				["Angles"] = Angle(1.1949419975281, 91.77123260498, 90.083297729492),
+				["Size"] = 0.475,
+				["Position"] = Vector(0.022491455078125, -1.4030151367188, 87.291015625),
+				["Color"] = Vector(255, 0, 97),
+				["OutlineColor"] = Vector(0, 0, 0),
+				["ClassName"] = "text",
+				["Text"] = "I really hope you like them, and if you don't credit me not many more will be made. ;3;",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3385739393",
+		["Name"] = "Credits~ (Please Read, and Don't Remove)",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-3.8654022216797, 0.54254913330078, -0.46421813964844),
+				["Name"] = "Mare + Stallion Tail",
+				["Angles"] = Angle(-73.206970214844, 165.79943847656, 86.879806518555),
+				["Material"] = "Models/debug/debugwhite",
+				["PositionOffset"] = Vector(0, -3.9000000953674, -28.700000762939),
+				["ClassName"] = "model",
+				["Bone"] = "tail 01",
+				["Model"] = "http://puu.sh/pMacf/6fc61efa6f.obj",
+				["UniqueID"] = "1055486472",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1443016407",
+				["Name"] = "Stallion Mane",
+				["Angles"] = Angle(-86.857864379883, -178.6639251709, -93.312294006348),
+				["Size"] = 0.825,
+				["ClassName"] = "model",
+				["DoubleFace"] = true,
+				["PositionOffset"] = Vector(0, 0, -38.5),
+				["Position"] = Vector(-11.88818359375, -6.6361083984375, -0.3402099609375),
+				["Bone"] = "lrigscull",
+				["Model"] = "http://puu.sh/pM9R5/56e83255b6.obj",
+				["Material"] = "Models/debug/debugwhite",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1055486472",
+				["Name"] = "Mare Mane",
+				["Angles"] = Angle(-86.857841491699, -178.66395568848, -91.338073730469),
+				["Size"] = 0.825,
+				["ClassName"] = "model",
+				["DoubleFace"] = true,
+				["PositionOffset"] = Vector(0, 0, -38.5),
+				["Position"] = Vector(-11.894508361816, -6.4670028686523, -0.34046936035156),
+				["Bone"] = "lrigscull",
+				["Model"] = "http://puu.sh/pM9R5/56e83255b6.obj",
+				["Material"] = "Models/debug/debugwhite",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Aloe/Lotus Mane and Tail",
+		["ClassName"] = "group",
+		["UniqueID"] = "3236084652",
+		["Hide"] = true,
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "3024126552",
+				["Fullbright"] = true,
+				["Size"] = 7.55,
+				["Name"] = "Mare + Stallion Hair",
+				["Scale"] = Vector(1, 1, 0.89999997615814),
+				["Position"] = Vector(-10.255859375, -9.0302734375, -0.23093795776367),
+				["ClassName"] = "model",
+				["DoubleFace"] = true,
+				["PositionOffset"] = Vector(0.10000000149012, -164.5, 0),
+				["Angles"] = Angle(-87.612449645996, -33.94987487793, -171.05375671387),
+				["Bone"] = "mane 01",
+				["Model"] = "http://puu.sh/ozkFJ/4d1ed8e243.obj",
+				["Material"] = "http://puu.sh/ozkQ2/13814a24c3.png",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Size"] = 0,
+				["Bone"] = "lrigspine 2",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "193005541",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Custom Short Hair",
+		["ClassName"] = "group",
+		["UniqueID"] = "301177111",
+		["Hide"] = true,
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "2822800835",
+				["Size"] = 0,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-11.375, 40.583984375, -0.001953125),
+				["Name"] = "Mare + Stallion Mane",
+				["Scale"] = Vector(1, 0.89999997615814, 1),
+				["Material"] = "Models/debug/debugwhite",
+				["Angles"] = Angle(-87.767631530762, -166.57002258301, -103.4397354126),
+				["DoubleFace"] = true,
+				["EditorExpand"] = true,
+				["ClassName"] = "model",
+				["Bone"] = "lrigscull",
+				["Model"] = "http://puu.sh/rFMSE/434ef127e4.obj",
+				["UniqueID"] = "2869778460",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2543238424",
+		["Hide"] = true,
+		["Name"] = "Noteworthy Mane",
+		["Description"] = "add parts to me!",
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-4.1554107666016, -9.6539611816406, 0.10177612304688),
+				["Name"] = "Mare + Stallion Mane",
+				["Material"] = "http://puu.sh/pMb14/1ea315baa0.png",
+				["Angles"] = Angle(-88.812080383301, 128.81929016113, -40.896514892578),
+				["Size"] = 0.85,
+				["PositionOffset"] = Vector(0, 8.6999998092651, -41.799999237061),
+				["ClassName"] = "model",
+				["Bone"] = "lrigscull",
+				["Model"] = "http://puu.sh/pMbgu/4df28c6d96.obj",
+				["UniqueID"] = "3340996049",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-2.8842926025391, -0.35591125488281, -0.17218780517578),
+				["Name"] = "Mare + Stallion Tail",
+				["Angles"] = Angle(-77.265144348145, 161.61972045898, 87.568252563477),
+				["Material"] = "http://puu.sh/pMb6i/a66ebda827.png",
+				["PositionOffset"] = Vector(0, -4.8000001907349, -27.299999237061),
+				["ClassName"] = "model",
+				["Bone"] = "tail 01",
+				["Model"] = "http://puu.sh/pMaUr/e81e0751c1.obj",
+				["UniqueID"] = "3330082022",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Pinkamena Mane and Tail",
+		["ClassName"] = "group",
+		["UniqueID"] = "2421826231",
+		["Hide"] = true,
+	},
+},
+[6] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Material"] = "http://puu.sh/nP1py/0850df9375.png",
+				["UniqueID"] = "3092945654",
+				["Size"] = 0,
+				["Bone"] = "lrigspine 1",
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2402224004",
+				["Name"] = "Mare + Stallion Mane",
+				["Scale"] = Vector(1, 0.89999997615814, 1),
+				["Position"] = Vector(-11.39794921875, 32.850280761719, -2.66455078125),
+				["ClassName"] = "model",
+				["Size"] = 0.85,
+				["EditorExpand"] = true,
+				["Angles"] = Angle(-85.111228942871, 152.05827331543, -61.971923828125),
+				["Bone"] = "lrigscull",
+				["Model"] = "http://puu.sh/nP0Uf/e57ff53027.obj",
+				["Material"] = "Models/debug/debugwhite",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3446309344",
+		["Hide"] = true,
+		["Name"] = "Lyra Mane ",
+		["Description"] = "add parts to me!",
+	},
+},
