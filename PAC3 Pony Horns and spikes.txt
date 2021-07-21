@@ -1,0 +1,158 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shiny",
+								["UniqueID"] = "1607527581",
+								["Size"] = 2,
+								["Bone"] = "forward",
+								["Model"] = "https://dl.dropbox.com/s/xwgijdd4gop6xs0/DragonHorns.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shiny",
+								["UniqueID"] = "2281479424",
+								["Hide"] = true,
+								["Size"] = 2,
+								["Bone"] = "forward",
+								["Model"] = "https://dl.dropbox.com/s/503lcdmx1zibgxm/DragonCurvedHorns.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shiny",
+								["UniqueID"] = "2418400638",
+								["Hide"] = true,
+								["Size"] = 2,
+								["Bone"] = "forward",
+								["Model"] = "https://dl.dropbox.com/s/nr2x2kdtdxdet90/CurvedHorns.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shiny",
+								["UniqueID"] = "648248434",
+								["Hide"] = true,
+								["Size"] = 2,
+								["Bone"] = "forward",
+								["Model"] = "https://dl.dropbox.com/s/sl70412l7d2qu47/DragonHorns2.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Hide"] = true,
+								["Material"] = "models/shiny",
+								["UniqueID"] = "2924436278",
+								["Size"] = 2,
+								["EditorExpand"] = true,
+								["Bone"] = "forward",
+								["Model"] = "https://dl.dropbox.com/s/1qk9bcj3vhpwehs/CurvedHorns2.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "798522289",
+						["Name"] = "horns",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "1088115145",
+						["Name"] = "Disable his hide",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shiny",
+								["UniqueID"] = "2418400638",
+								["Size"] = 2,
+								["Bone"] = "forward",
+								["Model"] = "https://dl.dropbox.com/s/282bv5egsefva9m/HeadSpikes.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shiny",
+								["UniqueID"] = "1264470592",
+								["Hide"] = true,
+								["Size"] = 2,
+								["Bone"] = "forward",
+								["Model"] = "https://dl.dropbox.com/s/b7nexmamhgfbitc/HeadSpikesRight.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shiny",
+								["UniqueID"] = "3696918436",
+								["Hide"] = true,
+								["Size"] = 2,
+								["Bone"] = "forward",
+								["Model"] = "https://dl.dropbox.com/s/g8aav2pkt4rerlm/HeadSpikesLeft.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "2337528445",
+						["Name"] = "spikes",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "3082460460",
+						["Name"] = "For see other models",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2019650604",
+				["Name"] = "horns set",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "3083329353",
+		["Description"] = "add parts to me!",
+	},
+},
