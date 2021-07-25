@@ -1,0 +1,304 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "clip",
+										["UniqueID"] = "685250838",
+										["Angles"] = Angle(-2.7876472473145, 90.000099182129, 90.000030517578),
+										["Name"] = "back clip",
+										["Position"] = Vector(-5.7389221191406, 4.1293029785156, 2.564453125),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "clip",
+										["UniqueID"] = "88870949",
+										["Angles"] = Angle(71.608711242676, 89.957664489746, 89.955253601074),
+										["Name"] = "bottom clip",
+										["Position"] = Vector(-6.8136291503906, 0.32049560546875, 2.765625),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "clip",
+										["UniqueID"] = "2411417062",
+										["Angles"] = Angle(-2.6346921799814e-07, -90, 4.6157138058334e-06),
+										["Name"] = "front clip",
+										["Position"] = Vector(-0.000762939453125, 11.705078125, 0.1796875),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3712175544",
+								["Angles"] = Angle(-90, -67.591896057129, 0),
+								["Position"] = Vector(-12.1884765625, 5.6865234375, 0.0887451171875),
+								["Name"] = "sheath",
+								["Scale"] = Vector(1, 1.5, 1),
+								["EditorExpand"] = true,
+								["Material"] = "models/debug/debugwhite",
+								["Size"] = 1.375,
+								["PositionOffset"] = Vector(0, 0, 1.5),
+								["Color"] = Vector(52, 52, 52),
+								["Bone"] = "lrigpelvis",
+								["Model"] = "https://www.dropbox.com/s/u342v8sj5aat9zl/stallioncock1.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(11.030766487122, 90.000022888184, 1.9660283214762e-05),
+										["ClassName"] = "clip",
+										["UniqueID"] = "1072894460",
+										["Position"] = Vector(0.00067138671875, 18.24755859375, -0.193359375),
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(-21.110000610352, 1.4049999713898, 0.0020000000949949),
+								["Material"] = "models/debug/debugwhite",
+								["Angles"] = Angle(-90, -59.700000762939, 0),
+								["Scale"] = Vector(1, 1, 1.1000000238419),
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Size"] = 1.375,
+								["PositionOffset"] = Vector(0.10000000149012, 0.80000001192093, 0.30000001192093),
+								["Color"] = Vector(255, 127, 127),
+								["Bone"] = "lrigpelvis",
+								["Model"] = "https://www.dropbox.com/s/u342v8sj5aat9zl/stallioncock1.obj?dl=0",
+								["UniqueID"] = "3063427152",
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["ClassName"] = "event",
+						["UniqueID"] = "4223804799",
+						["Event"] = "command",
+						["EditorExpand"] = true,
+						["Arguments"] = "cocksoft",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "cock soft",
+				["ClassName"] = "group",
+				["UniqueID"] = "274723413",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.00025463799829595, -90, 1.9930279449909e-05),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2320564456",
+								["Position"] = Vector(-0.0004730224609375, 4.9759998321533, -0.0048828125),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3981011028",
+						["Position"] = Vector(-10.056823730469, 6.5703125, 0.31344604492188),
+						["Material"] = "models/debug/debugwhite",
+						["EditorExpand"] = true,
+						["Size"] = 1.375,
+						["Angles"] = Angle(-90, -90, 0),
+						["Color"] = Vector(52, 52, 52),
+						["Bone"] = "lrigpelvis",
+						["Model"] = "https://www.dropbox.com/s/u342v8sj5aat9zl/stallioncock1.obj?dl=0",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "balls",
+				["ClassName"] = "group",
+				["UniqueID"] = "3505958827",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-8.7034301757813, 1.177734375, 0.21957397460938),
+						["Name"] = "ponut",
+						["Material"] = "models/debug/debugwhite",
+						["ClassName"] = "model",
+						["Size"] = 0.125,
+						["Angles"] = Angle(-90, 15.773485183716, 0),
+						["Color"] = Vector(63, 63, 63),
+						["Bone"] = "lrigpelvis",
+						["Model"] = "models/noesis/donut.mdl",
+						["UniqueID"] = "1920519907",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-8.3411865234375, 4.2724609375, 0.29199999570847),
+						["Name"] = "taint",
+						["Scale"] = Vector(0.20000000298023, 0.5, 0.20000000298023),
+						["Material"] = "models/debug/debugwhite",
+						["ClassName"] = "model",
+						["Size"] = 0.9,
+						["Angles"] = Angle(8.5377369032358e-06, 5.154025554657, 6.4033014268716e-07),
+						["Color"] = Vector(61, 61, 61),
+						["Bone"] = "lrigpelvis",
+						["Model"] = "models/pac/default.mdl",
+						["UniqueID"] = "1937816001",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "booty bits",
+				["ClassName"] = "group",
+				["UniqueID"] = "2813150548",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "78686474",
+				["Hide"] = true,
+				["Model"] = "https://www.dropbox.com/s/u342v8sj5aat9zl/stallioncock1.obj?dl=0",
+				["Position"] = Vector(0, 0, 7.1044921875),
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "clip",
+										["UniqueID"] = "1676470763",
+										["Angles"] = Angle(-2.7876472473145, 90.000099182129, 90.000030517578),
+										["Name"] = "back clip",
+										["Position"] = Vector(-5.7389221191406, 4.1293029785156, 2.564453125),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "clip",
+										["UniqueID"] = "334755191",
+										["Angles"] = Angle(71.608711242676, 89.957664489746, 89.955253601074),
+										["Name"] = "bottom clip",
+										["Position"] = Vector(-6.8136291503906, 0.32049560546875, 2.765625),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "clip",
+										["UniqueID"] = "437534668",
+										["Angles"] = Angle(-2.6346921799814e-07, -90, 4.6157138058334e-06),
+										["Name"] = "front clip",
+										["Position"] = Vector(-0.000762939453125, 11.705078125, 0.1796875),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1671538421",
+								["Angles"] = Angle(-90, -74.047332763672, 0),
+								["Position"] = Vector(-12.272888183594, 6.0146484375, 0.0877685546875),
+								["Name"] = "sheath",
+								["Scale"] = Vector(1, 1.5, 1),
+								["EditorExpand"] = true,
+								["Material"] = "models/debug/debugwhite",
+								["Size"] = 1.375,
+								["PositionOffset"] = Vector(0, 0, 1.5),
+								["Color"] = Vector(52, 52, 52),
+								["Bone"] = "lrigpelvis",
+								["Model"] = "https://www.dropbox.com/s/u342v8sj5aat9zl/stallioncock1.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(0, 90, -90),
+										["ClassName"] = "clip",
+										["UniqueID"] = "3921206314",
+										["Position"] = Vector(-0.0086669921875, 6.2880859375, 0.0019989013671875),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3433147768",
+								["Position"] = Vector(-9.6782836914063, 8.376953125, 0.050155639648438),
+								["Scale"] = Vector(1, 1, 1.1000000238419),
+								["EditorExpand"] = true,
+								["Material"] = "models/debug/debugwhite",
+								["Size"] = 1.375,
+								["Angles"] = Angle(-90, -74.380599975586, 0),
+								["Color"] = Vector(255, 127, 127),
+								["Bone"] = "lrigpelvis",
+								["Model"] = "https://www.dropbox.com/s/u342v8sj5aat9zl/stallioncock1.obj?dl=0",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["Event"] = "command",
+						["UniqueID"] = "85823442",
+						["Arguments"] = "cockhard",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "cock hard",
+				["ClassName"] = "group",
+				["UniqueID"] = "1801949099",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "horsecACK",
+		["ClassName"] = "group",
+		["UniqueID"] = "2511690338",
+		["EditorExpand"] = true,
+	},
+},
