@@ -1,0 +1,245 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-10.006469726563, -27.522033691406, 0.0760498046875),
+						["Name"] = "Tail/Color2",
+						["Model"] = "https://www.dropbox.com/s/i7wf8bnxcjgng2q/Tail.obj?dl=1",
+						["ClassName"] = "model",
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-89.999992370605, 83.999153137207, 0),
+						["Material"] = "https://i.imgur.com/A7rhdfA.png",
+						["Bone"] = "tail 01",
+						["Translucent"] = true,
+						["UniqueID"] = "946685177",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-10.006469726563, -27.522033691406, 0.0760498046875),
+						["Name"] = "Tail/Color1",
+						["ClassName"] = "model",
+						["Model"] = "https://www.dropbox.com/s/i7wf8bnxcjgng2q/Tail.obj?dl=1",
+						["Angles"] = Angle(-89.999992370605, 83.999153137207, 0),
+						["Material"] = "https://i.imgur.com/susrwzy.png",
+						["Bone"] = "tail 01",
+						["Translucent"] = true,
+						["UniqueID"] = "3061548396",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Tail",
+				["ClassName"] = "group",
+				["UniqueID"] = "3707747557",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.98538208007813, 45.486724853516, 0.48382568359375),
+						["Name"] = "HairExtra/Color1",
+						["Model"] = "https://www.dropbox.com/s/x85tn6eqxuycat5/HairExtra.obj?dl=1",
+						["ClassName"] = "model",
+						["Size"] = 0.825,
+						["Angles"] = Angle(-90, -114.48699951172, 9.491039276123),
+						["Material"] = "https://i.imgur.com/m60RtsN.png",
+						["Bone"] = "mane 01",
+						["Translucent"] = true,
+						["UniqueID"] = "3863873688",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.98538208007813, 45.486724853516, 0.48382568359375),
+						["Name"] = "HairExtra/Color2",
+						["Model"] = "https://www.dropbox.com/s/x85tn6eqxuycat5/HairExtra.obj?dl=1",
+						["ClassName"] = "model",
+						["Size"] = 0.825,
+						["Angles"] = Angle(-90, -114.48699951172, 9.491039276123),
+						["Material"] = "https://i.imgur.com/gXuSLxg.png",
+						["Bone"] = "mane 01",
+						["Translucent"] = true,
+						["UniqueID"] = "2652081567",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "HairExtra",
+				["ClassName"] = "group",
+				["UniqueID"] = "1564833555",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(2.1929321289063, 42.830474853516, 0.24853515625),
+						["Name"] = "HairBack/Color1",
+						["Model"] = "https://www.dropbox.com/s/6dybd7jib32jlxz/HairBack.obj?dl=1",
+						["ClassName"] = "model",
+						["Size"] = 0.825,
+						["Angles"] = Angle(-89.999992370605, -106.54860687256, 0),
+						["Material"] = "https://i.imgur.com/JE6SWOH.png",
+						["Bone"] = "mane 01",
+						["Translucent"] = true,
+						["UniqueID"] = "1423368851",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(2.1929321289063, 42.830474853516, 0.24853515625),
+						["Name"] = "HairBack/Color2",
+						["Model"] = "https://www.dropbox.com/s/6dybd7jib32jlxz/HairBack.obj?dl=1",
+						["ClassName"] = "model",
+						["Size"] = 0.825,
+						["Angles"] = Angle(-89.999992370605, -106.54860687256, 0),
+						["Material"] = "https://i.imgur.com/zuEdTnl.png",
+						["Bone"] = "mane 01",
+						["Translucent"] = true,
+						["UniqueID"] = "744578131",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "HairBack",
+				["ClassName"] = "group",
+				["UniqueID"] = "168305304",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Name"] = "I hope you enjoy this!",
+														["ClassName"] = "text",
+														["UniqueID"] = "1084027490",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["Name"] = "If nothing has changed when setting alpha, set \"alpha\" to 0.999 for Part 1",
+												["ClassName"] = "text",
+												["UniqueID"] = "642512904",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Name"] = "Then choose the color of Parts 1 and 2",
+										["ClassName"] = "text",
+										["UniqueID"] = "4208667869",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Name"] = "Select the part with color2 and set the \"alpha\" value to 0.999",
+								["ClassName"] = "text",
+								["UniqueID"] = "1265493901",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "Please, read instructions below.",
+						["ClassName"] = "text",
+						["UniqueID"] = "1065952234",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["UniqueID"] = "3856584890",
+						["Name"] = "Credit to Ponylumen ",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Info",
+				["ClassName"] = "group",
+				["UniqueID"] = "2820450947",
+				["EditorExpand"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-0.07861328125, 43.864288330078, -1.2026977539063),
+						["Name"] = "HairFront/Color1",
+						["Model"] = "https://www.dropbox.com/s/5peo06v5fwkgy89/HairFront.obj?dl=1",
+						["ClassName"] = "model",
+						["Size"] = 0.825,
+						["Angles"] = Angle(-86.942337036133, 72.864044189453, -177.14312744141),
+						["Material"] = "https://i.imgur.com/q1CQ6pz.png",
+						["Bone"] = "mane 01",
+						["Translucent"] = true,
+						["UniqueID"] = "4250554935",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-0.07861328125, 43.864288330078, -1.2026977539063),
+						["Name"] = "HairFront/Color2",
+						["Model"] = "https://www.dropbox.com/s/5peo06v5fwkgy89/HairFront.obj?dl=1",
+						["ClassName"] = "model",
+						["Size"] = 0.825,
+						["Angles"] = Angle(-86.942337036133, 72.864044189453, -177.14312744141),
+						["Material"] = "https://i.imgur.com/YYPtiik.png",
+						["Bone"] = "mane 01",
+						["Translucent"] = true,
+						["UniqueID"] = "3190174798",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "HairFront",
+				["ClassName"] = "group",
+				["UniqueID"] = "3645436449",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2956683647",
+		["Name"] = "Cloudchaser",
+	},
+},

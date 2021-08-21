@@ -1,0 +1,151 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-10.135375976563, -24.765357971191, 2.2768249511719),
+						["Name"] = "Tail/Color2",
+						["Model"] = "https://www.dropbox.com/s/6tvvy916conrvtj/Tail.obj?dl=1",
+						["ClassName"] = "model",
+						["Size"] = 0.95,
+						["Angles"] = Angle(-80.037605285645, 13.730589866638, 69.775810241699),
+						["Material"] = "https://i.imgur.com/gp7sgZs.png",
+						["Bone"] = "tail 01",
+						["Translucent"] = true,
+						["UniqueID"] = "3472269070",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-10.135375976563, -24.765357971191, 2.2768249511719),
+						["Name"] = "Tail/Color1",
+						["Model"] = "https://www.dropbox.com/s/6tvvy916conrvtj/Tail.obj?dl=1",
+						["ClassName"] = "model",
+						["Size"] = 0.95,
+						["Angles"] = Angle(-80.037605285645, 13.730589866638, 69.775810241699),
+						["Material"] = "https://i.imgur.com/uvU1ft8.png",
+						["Bone"] = "tail 01",
+						["Translucent"] = true,
+						["UniqueID"] = "853299858",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3136431152",
+				["Name"] = "Tail",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(2.830078125, 43.405426025391, 0.6019287109375),
+						["Name"] = "Mane/Color2",
+						["Model"] = "https://www.dropbox.com/s/mxvmsh3tzt94m5a/Mane.obj?dl=1",
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["Size"] = 0.825,
+						["Angles"] = Angle(-87.145156860352, 177.01972961426, 74.199340820313),
+						["Material"] = "https://i.imgur.com/q3hOcs5.png",
+						["Bone"] = "mane 01",
+						["Translucent"] = true,
+						["UniqueID"] = "2780940749",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(2.830078125, 43.405426025391, 0.6019287109375),
+						["Name"] = "Mane/Color1",
+						["Model"] = "https://www.dropbox.com/s/mxvmsh3tzt94m5a/Mane.obj?dl=1",
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["Size"] = 0.825,
+						["Angles"] = Angle(-87.145156860352, 177.01972961426, 74.199340820313),
+						["Material"] = "https://i.imgur.com/EugvBEV.png",
+						["Bone"] = "mane 01",
+						["Translucent"] = true,
+						["UniqueID"] = "1933283526",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "119474981",
+				["Name"] = "Mane",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["UniqueID"] = "861077275",
+						["Name"] = "Credit to Ponylumen",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Name"] = "Then choose the color of Parts 1 and 2",
+												["ClassName"] = "text",
+												["UniqueID"] = "4208667869",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Name"] = "If nothing has changed when setting alpha, set \"alpha\" to 0.999 for Part 1",
+										["ClassName"] = "text",
+										["UniqueID"] = "642512904",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Name"] = "Select the part with color2 and set the \"alpha\" value to 0.999",
+								["ClassName"] = "text",
+								["UniqueID"] = "1265493901",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "Please, read instructions below.",
+						["ClassName"] = "text",
+						["UniqueID"] = "1065952234",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2820450947",
+				["Name"] = "Info",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "628856217",
+		["Name"] = "Octavia",
+	},
+},
