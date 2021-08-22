@@ -1,0 +1,57 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1897033081",
+				["Angles"] = Angle(2.6773180961609, -10.703421592712, 91.594985961914),
+				["ClassName"] = "model",
+				["Size"] = 0.7,
+				["Material"] = "models/debug/debugwhite",
+				["Color"] = Vector(0, 255, 255),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/props_pony/flitter_bow.mdl",
+				["Position"] = Vector(-4.56640625, 32.101806640625, 1.9990234375),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1312433484",
+				["Scale"] = Vector(1, 0.80000001192093, 4),
+				["Position"] = Vector(-8.32080078125, -3.12353515625, 0.75),
+				["Material"] = "models/debug/debugwhite",
+				["Size"] = 0.015,
+				["Angles"] = Angle(-83.03125, 37.6875, -50.6875),
+				["Color"] = Vector(0, 255, 255),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/hunter/tubes/circle4x4.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2111341196",
+				["Scale"] = Vector(1, 0.80000001192093, 4),
+				["Position"] = Vector(-7.63671875, -3.286376953125, 0.7568359375),
+				["Material"] = "models/debug/debugwhite",
+				["Size"] = 0.015,
+				["Angles"] = Angle(-83.03125, 37.6875, -50.6875),
+				["Color"] = Vector(0, 255, 255),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/hunter/tubes/tube4x4x05.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Hair Band",
+		["ClassName"] = "group",
+		["UniqueID"] = "3082397918",
+		["Description"] = "add parts to me!",
+	},
+},
