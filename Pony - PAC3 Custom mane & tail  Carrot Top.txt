@@ -1,0 +1,75 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "56975940",
+						["Name"] = "Mane",
+						["Material"] = "models/debug/debugwhite",
+						["Size"] = 0.8,
+						["Angles"] = Angle(-89.999992370605, -110.38608551025, 0),
+						["ClassName"] = "model",
+						["Bone"] = "mane 01",
+						["Model"] = "https://www.dropbox.com/s/ayup0imge4vj860/Mane.obj?dl=1",
+						["Position"] = Vector(3.65771484375, 42.00146484375, 0.086990356445313),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1775807684",
+				["Name"] = "Mane",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "https://www.dropbox.com/s/lw9mldt4iwi31zm/Tail.obj?dl=1",
+						["Material"] = "models/debug/debugwhite",
+						["UniqueID"] = "2189242864",
+						["Position"] = Vector(-12.1142578125, -25.2822265625, -0.163330078125),
+						["Angles"] = Angle(-89.999961853027, 79.283660888672, 0),
+						["Bone"] = "tail 01",
+						["Name"] = "Tail",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "950429558",
+				["Name"] = "Tail",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["UniqueID"] = "861077275",
+						["Name"] = "Credit to Ponylumen",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2820450947",
+				["Name"] = "Info",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Carrot Top",
+		["ClassName"] = "group",
+		["UniqueID"] = "884909046",
+		["Description"] = "add parts to me!",
+	},
+},
