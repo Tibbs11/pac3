@@ -1,0 +1,328 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "ogg",
+						["UniqueID"] = "661385725",
+						["Radius"] = 600,
+						["URL"] = "https://www.dropbox.com/s/oua24xw7v9dyf6s/buck%20kick%201%20sound.ogg?dl=0",
+						["Doppler"] = true,
+						["Name"] = "buck%20kick%201%20sound",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://pastebin.com/1jH0kmFy",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "1742334210",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "577080541",
+						["Event"] = "button",
+						["Arguments"] = "o",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "443105347",
+				["Name"] = "Buck Kick (O)",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["PlayCount"] = 9999,
+										["ClassName"] = "ogg",
+										["UniqueID"] = "1394907345",
+										["Radius"] = 550,
+										["URL"] = "https://www.dropbox.com/s/trv9aaz68nzmbnr/horse%20gallop%20muffled%201.ogg?dl=0",
+										["Doppler"] = true,
+										["Name"] = "horse%20gallop%20muffled%201",
+										["Volume"] = 3,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["URL"] = "https://pastebin.com/uBdcu9se",
+												["ClassName"] = "custom_animation",
+												["UniqueID"] = "1738579623",
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "animation",
+										["UniqueID"] = "150464421",
+										["SequenceName"] = "ragdoll",
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "180",
+								["UniqueID"] = "306448918",
+								["Event"] = "speed",
+								["Operator"] = "below",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "4283423387",
+						["Event"] = "is_on_ground",
+						["EditorExpand"] = true,
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2012801778",
+				["Name"] = "Gallop 2.0",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://pastebin.com/1jH0kmFy",
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "3321975899",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Volume"] = 0.5,
+								["ClassName"] = "sound",
+								["UniqueID"] = "4066956329",
+								["Sound"] = "ambient/animal/horse_1.wav",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "get off me@@4",
+						["Invert"] = true,
+						["Event"] = "say",
+						["UniqueID"] = "4077059773",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "4056995595",
+				["Name"] = "buck (\"get off me\")",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "text",
+				["UniqueID"] = "1873747703",
+				["Name"] = "Creator: GearBell",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["URL"] = "https://pastebin.com/w50LfAjY",
+												["ClassName"] = "custom_animation",
+												["UniqueID"] = "3914240819",
+												["EditorExpand"] = true,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["PlayCount"] = 9999,
+												["ClassName"] = "ogg",
+												["UniqueID"] = "341746413",
+												["Radius"] = 350,
+												["URL"] = "https://www.dropbox.com/s/k2oi5ama8bo9tn5/horse%20nose%20blow%205.ogg?dl=0",
+												["Name"] = "horse%20nose%20blow%205",
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "40",
+										["UniqueID"] = "1076465220",
+										["Event"] = "timer",
+										["Operator"] = "above",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "1359071654",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 5,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "3590714498",
+										["Axis"] = "y",
+										["VariableName"] = "AngleOffset",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 5,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1082772548",
+										["Axis"] = "x",
+										["InputMultiplier"] = 2,
+										["Min"] = -5,
+										["VariableName"] = "AngleOffset",
+									},
+								},
+							},
+							["self"] = {
+								["AngleOffset"] = Angle(-4.9345269203186, 4.4050102233887, 0),
+								["Bone"] = "lrigneck",
+								["UniqueID"] = "822335862",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 15,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1076377977",
+										["Axis"] = "x",
+										["Min"] = -15,
+										["VariableName"] = "AngleOffset",
+									},
+								},
+							},
+							["self"] = {
+								["DrawOrder"] = 1,
+								["UniqueID"] = "543504715",
+								["Bone"] = "tail 01",
+								["AngleOffset"] = Angle(11.430060386658, 0, 0),
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "10",
+						["UniqueID"] = "1761310099",
+						["Event"] = "speed",
+						["Operator"] = "above",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2699070339",
+				["Name"] = "Idle Animation",
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "607287863",
+						["Event"] = "button",
+						["Arguments"] = "i",
+						["Invert"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Volume"] = 0.5,
+								["ClassName"] = "sound",
+								["UniqueID"] = "819915804",
+								["Sound"] = "ambient/animal/horse_1.wav",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "4017115363",
+						["URL"] = "https://pastebin.com/tkrz39f9",
+						["Name"] = "whinny animation",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1500928907",
+				["Name"] = "Whinny (I)",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "My Outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "3722476924",
+		["EditorExpand"] = true,
+	},
+},
