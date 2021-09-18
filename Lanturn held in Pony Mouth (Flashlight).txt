@@ -1,0 +1,241 @@
+["children"] = {
+	[1] = {
+		["children"] = {
+			[1] = {
+				["children"] = {
+				},
+				["self"] = {
+					["ClassName"] = "light",
+					["Position"] = Vector(4.59375, 13.06640625, 0.0322265625),
+					["Angles"] = Angle(-9.5622650405858e-05, -22.049652099609, -5.5922173487488e-05),
+					["Size"] = 100,
+					["Brightness"] = 0.5,
+					["UniqueID"] = "154420551",
+				},
+			},
+			[2] = {
+				["children"] = {
+					[1] = {
+						["children"] = {
+							[1] = {
+								["children"] = {
+									[1] = {
+										["children"] = {
+										},
+										["self"] = {
+											["Angles"] = Angle(1.3340213627089e-05, 0, -0.00012038209388265),
+											["ClassName"] = "clip",
+											["UniqueID"] = "895569231",
+											["Position"] = Vector(-10.787414550781, -0.3427734375, -0.00390625),
+										},
+									},
+								},
+								["self"] = {
+									["UniqueID"] = "3386255254",
+									["Scale"] = Vector(1.6000000238419, 0.40000000596046, 0.30000001192093),
+									["ClassName"] = "model",
+									["Size"] = 0.2,
+									["Model"] = "models/hunter/tubes/tube2x2x025c.mdl",
+									["Color"] = Vector(36, 36, 36),
+									["Position"] = Vector(0.005859375, -0.003173828125, -4.6250610351563),
+									["Translucent"] = true,
+									["Angles"] = Angle(89.999961853027, 0, 0),
+								},
+							},
+							[2] = {
+								["children"] = {
+									[1] = {
+										["children"] = {
+										},
+										["self"] = {
+											["Angles"] = Angle(-89.753189086914, 179.9986114502, 180),
+											["ClassName"] = "clip",
+											["UniqueID"] = "2596672068",
+											["Position"] = Vector(-0.009002685546875, 0.0068359375, 1.80224609375),
+										},
+									},
+								},
+								["self"] = {
+									["Position"] = Vector(0.001220703125, 0.0009765625, 2.172607421875),
+									["Scale"] = Vector(0.89999997615814, 0.89999997615814, 0.60000002384186),
+									["Model"] = "models/props_trainstation/trainstation_ornament002.mdl",
+									["Material"] = "models/debug/debugwhite",
+									["DoubleFace"] = true,
+									["Size"] = 0.4,
+									["Color"] = Vector(36, 36, 36),
+									["UniqueID"] = "3152857516",
+									["Translucent"] = true,
+									["ClassName"] = "model",
+								},
+							},
+							[3] = {
+								["children"] = {
+								},
+								["self"] = {
+									["UniqueID"] = "1855732978",
+									["Scale"] = Vector(1, 1, 0.20000000298023),
+									["Model"] = "models/props_trainstation/trashcan_indoor001b.mdl",
+									["EditorExpand"] = true,
+									["Size"] = 0.25,
+									["Material"] = "models/debug/debugwhite",
+									["Color"] = Vector(36, 36, 36),
+									["Position"] = Vector(0.0010986328125, -0.0009765625, -5.407958984375),
+									["Translucent"] = true,
+									["ClassName"] = "model",
+								},
+							},
+							[4] = {
+								["children"] = {
+								},
+								["self"] = {
+									["UniqueID"] = "3600738962",
+									["Model"] = "models/hunter/misc/shell2x2a.mdl",
+									["EditorExpand"] = true,
+									["Name"] = "glass",
+									["Scale"] = Vector(0.89999997615814, 0.89999997615814, 3.2999999523163),
+									["Alpha"] = 0.5,
+									["ClassName"] = "model",
+									["Size"] = 0.075,
+									["Position"] = Vector(0.0478515625, 0.0626220703125, -4.1036376953125),
+									["Color"] = Vector(127, 159, 255),
+									["Angles"] = Angle(-1.878302100522e-05, -179.99992370605, -1.2128257751465),
+									["Translucent"] = true,
+									["Material"] = "models/shiny",
+								},
+							},
+							[5] = {
+								["children"] = {
+								},
+								["self"] = {
+									["UniqueID"] = "240634352",
+									["Name"] = "handle",
+									["Scale"] = Vector(1.3999999761581, 0.69999998807907, 0.40000000596046),
+									["Angles"] = Angle(90, 3.5437693441054e-05, 3.5437682527117e-05),
+									["Size"] = 0.1,
+									["Model"] = "models/hunter/tubes/tube2x2x025c.mdl",
+									["Color"] = Vector(36, 36, 36),
+									["Position"] = Vector(-0.001220703125, 0.0009765625, 6.85595703125),
+									["Translucent"] = true,
+									["ClassName"] = "model",
+								},
+							},
+							[6] = {
+								["children"] = {
+									[1] = {
+										["children"] = {
+										},
+										["self"] = {
+											["Angles"] = Angle(1.3340213627089e-05, 0, -0.00012038209388265),
+											["ClassName"] = "clip",
+											["UniqueID"] = "2990944599",
+											["Position"] = Vector(-10.787414550781, -0.3427734375, -0.00390625),
+										},
+									},
+								},
+								["self"] = {
+									["UniqueID"] = "2841265962",
+									["Scale"] = Vector(1.6000000238419, 0.40000000596046, 0.30000001192093),
+									["ClassName"] = "model",
+									["Size"] = 0.2,
+									["Model"] = "models/hunter/tubes/tube2x2x025c.mdl",
+									["Color"] = Vector(36, 36, 36),
+									["Position"] = Vector(0.005859375, -0.003173828125, -4.6250610351563),
+									["Translucent"] = true,
+									["Angles"] = Angle(89.999961853027, -90, 0),
+								},
+							},
+							[7] = {
+								["children"] = {
+								},
+								["self"] = {
+									["Velocity"] = 40,
+									["UniqueID"] = "2534194729",
+									["Lighting"] = false,
+									["FireDelay"] = 0,
+									["EndSize"] = 1,
+									["ClassName"] = "particles",
+									["DieTime"] = 0.2,
+									["Position"] = Vector(-0.15283203125, -0.0068359375, -4.2091064453125),
+									["Material"] = "sprites/orangecore1",
+									["Angles"] = Angle(-87.925338745117, -0.00022699356486555, 0.00029479688964784),
+									["StartSize"] = 3,
+									["Gravity"] = Vector(0, 0, 0),
+								},
+							},
+							[8] = {
+								["children"] = {
+								},
+								["self"] = {
+									["ClassName"] = "model",
+									["UniqueID"] = "3620819934",
+									["Model"] = "models/hunter/tubes/tube2x2x025.mdl",
+									["Color"] = Vector(36, 36, 36),
+									["Size"] = 0.075,
+									["Translucent"] = true,
+									["Scale"] = Vector(1, 1, 0.40000000596046),
+								},
+							},
+						},
+						["self"] = {
+							["Position"] = Vector(4.65771484375, 13.107177734375, 0.001953125),
+							["Model"] = "models/props_borealis/bluebarrel001.mdl",
+							["Size"] = 0.225,
+							["Scale"] = Vector(1, 1, 0.80000001192093),
+							["Alpha"] = 0,
+							["ClassName"] = "model",
+							["DoubleFace"] = true,
+							["EditorExpand"] = true,
+							["Angles"] = Angle(-1.5367926607723e-05, -19.553045272827, 90),
+							["Material"] = "models/shiny",
+							["Translucent"] = true,
+							["UniqueID"] = "1050039438",
+						},
+					},
+				},
+				["self"] = {
+					["Alpha"] = 0,
+					["ClassName"] = "model",
+					["UniqueID"] = "3567342270",
+					["EditorExpand"] = true,
+					["Bone"] = "lrigscull",
+					["Model"] = "models/pac/default.mdl",
+					["Position"] = Vector(0.0009765625, 2.07666015625, 0),
+				},
+			},
+		},
+		["self"] = {
+			["JigglePosition"] = false,
+			["ClassName"] = "jiggle",
+			["UniqueID"] = "1376228898",
+			["Speed"] = 5,
+			["Angles"] = Angle(1.1952831300732e-05, 5.1757025718689, -1.366037849948e-05),
+			["Bone"] = "lrigscull",
+			["Position"] = Vector(6.39990234375, -1.3612060546875, -0.00048828125),
+			["Strain"] = 0.8,
+		},
+	},
+	[2] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Event"] = "is_flashlight_on",
+			["ClassName"] = "event",
+			["Invert"] = true,
+			["UniqueID"] = "3226590316",
+		},
+	},
+	[3] = {
+		["children"] = {
+		},
+		["self"] = {
+			["ClassName"] = "text",
+			["UniqueID"] = "2050334980",
+			["Name"] = "Creator: GearBell",
+		},
+	},
+},
+["self"] = {
+	["ClassName"] = "group",
+	["UniqueID"] = "900477869",
+	["Name"] = "lanturn",
+},
