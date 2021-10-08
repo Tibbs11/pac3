@@ -1,0 +1,60 @@
+[1] = {
+	["children"] = {
+	},
+	["self"] = {
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "2913498440",
+		["Description"] = "add parts to me!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "http://www.derpygamers.com/PAC_Content_Gmod/animations/Hump1A.txt",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "1929851726",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(3.1148071289063, 14.792146682739, -2.489501953125),
+						["Model"] = " https://dl.dropboxusercontent.com/u/41871444/pacs/new/DOOK.obj",
+						["Material"] = "models/debug/debugwhite",
+						["EditorExpand"] = true,
+						["UniqueID"] = "2621686355",
+						["ClassName"] = "model",
+						["Angles"] = Angle(-85.21875, -124.09375, 105.6875),
+						["Size"] = 0.2,
+						["PositionOffset"] = Vector(2.7999999523163, 0, 0),
+						["Color"] = Vector(17, 17, 17),
+						["Bone"] = "lrigpelvis",
+						["Brightness"] = 4.3,
+						["AngleOffset"] = Angle(179.78125, -174.96875, 111.40625),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "4161139024",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2738062402",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
