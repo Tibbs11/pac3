@@ -1,0 +1,165 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "http://www.derpygamers.com/PAC_Content_Gmod/animations/Hump1A.txt",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "2308970958",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2451535786",
+								["Scale"] = Vector(1, 1, 2.5),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(-3.3030395507813, -0.00030517578125, 0.603515625),
+								["Color"] = Vector(126, 126, 126),
+								["Angles"] = Angle(-86.411285400391, 180, -179.99995422363),
+								["Model"] = "models/props_phx/construct/metal_wire1x1.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "4215686843",
+						["Scale"] = Vector(0.60000002384186, 0.89999997615814, 0.10000000149012),
+						["Position"] = Vector(4.4306640625, -0.041748046875, -0.41748046875),
+						["Material"] = "models/debug/debugwhite",
+						["Size"] = 0.25,
+						["Angles"] = Angle(89.999969482422, -9.2817850112915, 0),
+						["Color"] = Vector(36, 36, 36),
+						["Bone"] = "lrig lefteg br femur",
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3138266911",
+						["Angles"] = Angle(-45, 178.30000305176, 90),
+						["ClassName"] = "model",
+						["Size"] = 0.45,
+						["Material"] = "models/debug/debugwhite",
+						["Color"] = Vector(12, 12, 12),
+						["Bone"] = "lrigpelvis",
+						["Model"] = "models/hunter/triangles/025x025.mdl",
+						["Position"] = Vector(2.625, 10.151000022888, 0),
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1559422342",
+						["Position"] = Vector(-28.507690429688, 26.23828125, 1.3583984375),
+						["Scale"] = Vector(1, 1.2000000476837, 1),
+						["EditorExpand"] = true,
+						["Material"] = "https://copy.com/HeCq1zQjGnRrs0wA/penis_n1.jpg?download=1",
+						["Size"] = 0.775,
+						["Angles"] = Angle(-87.78125, -29.375, 172.125),
+						["Color"] = Vector(127, 0, 255),
+						["Bone"] = "lrigpelvis",
+						["Model"] = "https://copy.com/SDGfsEWpfMVBrGPy",
+						["ClassName"] = "model",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-1.07666015625, 4.111328125, -0.005859375),
+						["Material"] = "models/debug/debugwhite",
+						["Name"] = "My Ponies fat",
+						["Scale"] = Vector(0.89999997615814, 0.89999997615814, 0.10000000149012),
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["Size"] = 0.35,
+						["Angles"] = Angle(90, 6.6338587203063e-005, -1.6019999980927),
+						["Color"] = Vector(36, 36, 36),
+						["Bone"] = "lrigpelvis",
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["UniqueID"] = "1969755051",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2778488702",
+								["Scale"] = Vector(1, 1, 2.5),
+								["ClassName"] = "model",
+								["Size"] = 0.025,
+								["Position"] = Vector(3.7219998836517, -0.0010000000474975, 0.64399999380112),
+								["Color"] = Vector(126, 126, 126),
+								["Angles"] = Angle(-86.411285400391, 180, -179.99995422363),
+								["Model"] = "models/props_phx/construct/metal_wire1x1.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3366322403",
+						["Scale"] = Vector(0.60000002384186, 0.89999997615814, 0.10000000149012),
+						["Position"] = Vector(4.43359375, -0.04345703125, 0.4888916015625),
+						["Material"] = "models/debug/debugwhite",
+						["Size"] = 0.25,
+						["Angles"] = Angle(89.999969482422, -9.2817850112915, 0),
+						["Color"] = Vector(36, 36, 36),
+						["Bone"] = "lrig lefteg bl femur",
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2925192371",
+						["ClassName"] = "bone",
+						["Position"] = Vector(10.300000190735, 0, 2.4839999675751),
+						["Angles"] = Angle(-0, -11.654558181763, 0),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3672930961",
+				["Event"] = "is_flashlight_on",
+				["Arguments"] = "hump",
+				["Name"] = "is_flashlight_on",
+				["Invert"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Alpha"] = 0,
+				["ClassName"] = "text",
+				["UniqueID"] = "3569300686",
+				["Hide"] = true,
+				["Name"] = "Made by Ink",
+				["Text"] = "I'm kind of ashamed...",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Strapon",
+		["ClassName"] = "group",
+		["UniqueID"] = "438914964",
+		["EditorExpand"] = true,
+	},
+},
