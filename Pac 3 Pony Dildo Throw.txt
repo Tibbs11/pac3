@@ -1,0 +1,114 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "button",
+						["Arguments"] = "4",
+						["UniqueID"] = "422841092",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(15.199999809265, 0, 36.599998474121),
+				["Speed"] = 0.5,
+				["ClassName"] = "projectile",
+				["EditorExpand"] = true,
+				["EyeAngles"] = true,
+				["OutfitPartUID"] = "3342614725",
+				["OutfitPartName"] = "Im so bored",
+				["CollideWithOwner"] = true,
+				["UniqueID"] = "3857165906",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 255,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "481096598",
+										["Axis"] = "x",
+										["EditorExpand"] = true,
+										["Name"] = "x",
+										["VariableName"] = "Color",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 255,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1160953604",
+										["Axis"] = "y",
+										["InputMultiplier"] = 1.1,
+										["Name"] = "y",
+										["VariableName"] = "Color",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 255,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1479766872",
+										["Axis"] = "z",
+										["InputMultiplier"] = 1.2,
+										["Name"] = "z",
+										["VariableName"] = "Color",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(180, 0, 90),
+								["ClassName"] = "model",
+								["UniqueID"] = "772868455",
+								["Size"] = 1.325,
+								["Color"] = Vector(25.64017868042, 254.63645935059, 38.341094970703),
+								["EditorExpand"] = true,
+								["Model"] = "https://dl.dropboxusercontent.com/s/pas0yscj1rdfpgh/dild.obj?dl=0",
+								["Material"] = "https://dl.dropboxusercontent.com/s/cgx9blhoi9c5shk/dildo3.jpg?dl=0",
+							},
+						},
+					},
+					["self"] = {
+						["Alpha"] = 0,
+						["ClassName"] = "model",
+						["UniqueID"] = "2054953284",
+						["EditorExpand"] = true,
+						["Color"] = Vector(255, 0, 0),
+						["Size"] = 0.18,
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["Angles"] = Angle(180, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3342614725",
+				["Hide"] = true,
+				["Name"] = "Im so bored",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3137537576",
+		["ClassName"] = "group",
+		["Name"] = "Dildothrow",
+		["Description"] = "add parts to me!",
+	},
+},

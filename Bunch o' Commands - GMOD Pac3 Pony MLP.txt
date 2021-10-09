@@ -1,0 +1,489 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "1510965104",
+								["Event"] = "say",
+								["Arguments"] = "sexy@@1e+020",
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["URL"] = "https://dl.dropboxusercontent.com/u/71860512/Garry%27s%20Mod/PAC%203/animations/ShowingOff_Fin_Long.txt",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "929996155",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3581386894",
+				["Name"] = "show off",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "2650899712",
+								["Event"] = "say",
+								["Arguments"] = "im ready@@1e+025",
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["URL"] = "https://dl.dropboxusercontent.com/u/71860512/Garry%27s%20Mod/PAC%203/animations/PresentingSelf_Fin_Long.txt",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "1176577440",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "give it to me",
+				["DrawOrder"] = 9999999999999,
+				["UniqueID"] = "4186559454",
+				["ClassName"] = "group",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "4237563577",
+								["Event"] = "say",
+								["Arguments"] = "problam officar@@1e+017",
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["URL"] = "https://dl.dropboxusercontent.com/u/71860512/Garry%27s%20Mod/PAC%203/animations/HoovesOnWalls_Long_Fin.txt",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "3373522795",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "wall",
+				["DrawOrder"] = 1e+016,
+				["UniqueID"] = "2129194977",
+				["ClassName"] = "group",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "569420019",
+		["Name"] = "Animations from companion cube",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "lick@@9999999999999",
+						["Invert"] = true,
+						["Event"] = "say",
+						["UniqueID"] = "1853059672",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = -20,
+						["Pow"] = 2,
+						["UniqueID"] = "2513657497",
+						["Axis"] = "y",
+						["Min"] = 30,
+						["VariableName"] = "Angles",
+						["Offset"] = 1,
+						["InputMultiplier"] = 5.1,
+						["ClassName"] = "proxy",
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(0, 29.95086479187, 0),
+				["UniqueID"] = "596673778",
+				["Bone"] = "lrigscull",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "lick@@1e+017",
+						["Invert"] = true,
+						["Event"] = "say",
+						["UniqueID"] = "537303413",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 4,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "361843076",
+						["InputMultiplier"] = 5.1,
+						["Axis"] = "y",
+						["Pow"] = 5,
+						["EditorExpand"] = true,
+						["VariableName"] = "Scale",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(7.87060546875, 1.318359375, 0.35546875),
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+				["Scale"] = Vector(0.89999997615814, 0.0004398753226269, 1.1000000238419),
+				["EditorExpand"] = true,
+				["AngleOffset"] = Angle(0, 90, 0),
+				["Size"] = 0.1,
+				["Material"] = "models/ihvtest/eyeball_l",
+				["Color"] = Vector(255, 127, 127),
+				["Bone"] = "lrigscull",
+				["Translucent"] = true,
+				["UniqueID"] = "3970134719",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1971747646",
+		["Name"] = "Lick",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "3761802629",
+						["Event"] = "say",
+						["Arguments"] = "disco?@@99999999",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["URL"] = "http://mp3skullvideos.com/music/temp/Lovegame_(wWw.iPagalWorld.Com).mp3",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "342026122",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "4027710269",
+						["Event"] = "say",
+						["Arguments"] = "shake@@1e+017",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["URL"] = "https://copy.com/4Dny6esUjbKvsJxr?download=",
+				["ClassName"] = "custom_animation",
+				["UniqueID"] = "3642796048",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "2635004108",
+						["Event"] = "say",
+						["Arguments"] = "disco?@@1e+017",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["URL"] = "https://copy.com/4Dny6esUjbKvsJxr?download=",
+				["ClassName"] = "custom_animation",
+				["UniqueID"] = "937009364",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1922428404",
+		["DrawOrder"] = 2.8,
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2621686355",
+						["Model"] = " https://dl.dropboxusercontent.com/u/41871444/pacs/new/DOOK.obj",
+						["Material"] = "models/debug/debugwhite",
+						["Hide"] = true,
+						["EditorExpand"] = true,
+						["Position"] = Vector(3.1148071289063, 14.792146682739, -2.489501953125),
+						["ClassName"] = "model",
+						["Angles"] = Angle(-85.21875, -124.09375, 105.6875),
+						["Size"] = 0.2,
+						["PositionOffset"] = Vector(2.7999999523163, 0, 0),
+						["Color"] = Vector(17, 17, 17),
+						["Bone"] = "lrigpelvis",
+						["Brightness"] = 4.3,
+						["AngleOffset"] = Angle(179.78125, -174.96875, 111.40625),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "http://www.derpygamers.com/PAC_Content_Gmod/animations/Hump1A.txt",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "1929851726",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "hnng@@1e+017",
+				["Invert"] = true,
+				["Event"] = "say",
+				["UniqueID"] = "4161139024",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Dick + Hump",
+		["ClassName"] = "group",
+		["UniqueID"] = "2738062402",
+		["Description"] = "add parts to me!",
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 30.21875, 0),
+						["Bone"] = "lrigneck 2",
+						["UniqueID"] = "3514719603",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2220976419",
+								["Scale"] = Vector(1, 0.5, 0.69999998807907),
+								["ClassName"] = "model",
+								["Size"] = 0.175,
+								["Position"] = Vector(-0.1298828125, 0.052734375, 0.1689453125),
+								["Color"] = Vector(0, 0, 0),
+								["Bone"] = "lrig lefteg fl fronthoof",
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "text",
+								["Angles"] = Angle(0.125, -179.5625, -4.875),
+								["UniqueID"] = "2575288380",
+								["Font"] = "DermaDefault",
+								["Color"] = Vector(17, 17, 17),
+								["Size"] = 0.025,
+								["Position"] = Vector(-1.8525390625, 0.83984375, 0.44384765625),
+								["Text"] = "41 Megapixel",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0, 0, -89.78125),
+								["ClassName"] = "model",
+								["UniqueID"] = "3072478879",
+								["Size"] = 0.075,
+								["Color"] = Vector(0, 0, 0),
+								["Position"] = Vector(-2.1513671875, -0.11328125, 0.353515625),
+								["Model"] = "models/sprops/geometry/t_fdisc_42.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/debug/debugwhite",
+								["UniqueID"] = "1867664338",
+								["ClassName"] = "model",
+								["Size"] = -0.025,
+								["Position"] = Vector(-3.0380001068115, -0.07599999755621, 0.5),
+								["Model"] = "models/sprops/geometry/t_fdisc_42.mdl",
+								["Angles"] = Angle(0, 0, -89.78125),
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "text",
+								["Angles"] = Angle(0.125, -179.5625, -4.875),
+								["UniqueID"] = "4148048384",
+								["Font"] = "DermaDefault",
+								["Color"] = Vector(17, 17, 17),
+								["Size"] = 0.025,
+								["Position"] = Vector(-1.861328125, 0.482421875, 0.44140625),
+								["Text"] = "Zeiss",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/debug/debugwhite",
+								["Position"] = Vector(-1.6796875, -0.6875, 0.26708984375),
+								["ClassName"] = "model",
+								["Size"] = 0.125,
+								["UniqueID"] = "1310781670",
+								["Model"] = "models/sprops/rectangles/size_1/rect_3x12x3.mdl",
+								["Scale"] = Vector(1, 0.69999998807907, 0.80000001192093),
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0.65625, -90.6875, -179.96875),
+								["UniqueID"] = "1713554795",
+								["Font"] = "DermaDefault",
+								["ClassName"] = "text",
+								["Size"] = 0.05,
+								["Position"] = Vector(-3.951171875, 0.15000000596046, -0.0263671875),
+								["Text"] = "Nokia",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2063944972",
+						["Position"] = Vector(4.20556640625, -0.498046875, -0.78857421875),
+						["Scale"] = Vector(1, 0.5, 0.30000001192093),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-41.90625, -84.96875, 179.28125),
+						["Size"] = 0.15,
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Bone"] = "lrig lefteg fl fronthoof",
+						["Model"] = "models/hunter/plates/plate1x1.mdl",
+						["Material"] = "http://i.imgur.com/E0y3ela.jpg",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(8.5625, 41.8125, -2.75),
+						["Position"] = Vector(1.169921875, 2.171875, 1.91015625),
+						["Bone"] = "lrig lefteg fl rightadius",
+						["UniqueID"] = "3224228709",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(36.03125, 66.9375, 0),
+						["Bone"] = "lrig lefteg fl humerus",
+						["UniqueID"] = "778600070",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-43.84375, 64.6875, -55.6875),
+						["Position"] = Vector(0, 0, 0.40000000596046),
+						["Bone"] = "lrig lefteg fl fronthoof",
+						["UniqueID"] = "3002067259",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "gmod_camera@@1",
+				["Invert"] = true,
+				["Event"] = "weapon_class",
+				["UniqueID"] = "1012341950",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3164002503",
+		["Name"] = "Phone - camera",
+	},
+},
