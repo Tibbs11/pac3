@@ -1,0 +1,27 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(2.3746337890625, 1.1678009033203, -0.15228271484375),
+				["Model"] = "https://dl.dropboxusercontent.com/s/1ups9bgt2ic5avb/crotchboobs.obj?dl=0",
+				["Angles"] = Angle(-85.825538635254, -153.87016296387, -107.28631591797),
+				["ClassName"] = "model",
+				["Size"] = 0.8,
+				["Material"] = "https://dl.dropboxusercontent.com/s/mh0cqsxy0h0c1a5/shared.jpg?dl=0",
+				["Color"] = Vector(157, 52, 0),
+				["Bone"] = "lrigpelvis",
+				["Brightness"] = 1.4,
+				["UniqueID"] = "2038599863",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1869556550",
+		["ClassName"] = "group",
+		["Name"] = "pony tits",
+		["Description"] = "add parts to me!",
+	},
+},
