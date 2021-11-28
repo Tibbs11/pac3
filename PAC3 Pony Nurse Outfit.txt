@@ -1,0 +1,69 @@
+["children"] = {
+	[1] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Angles"] = Angle(0, 80.03125, 90),
+			["Position"] = Vector(-86.211120605469, 14.695556640625, -0.099609375),
+			["UniqueID"] = "1801996519",
+			["Size"] = 1.2,
+			["Bone"] = "lrigneck",
+			["Model"] = "models/player/items/medic/fwk_medic_stethoscope.mdl",
+			["ClassName"] = "model",
+		},
+	},
+	[2] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Angles"] = Angle(0, 3.90625, 90),
+			["Position"] = Vector(-11.435791015625, 27.819580078125, 0.18218994140625),
+			["UniqueID"] = "642012775",
+			["Bone"] = "lrigribcage",
+			["Model"] = "models/props_pony/female_shirt.mdl",
+			["ClassName"] = "model",
+		},
+	},
+	[3] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Angles"] = Angle(-0.5, 9.25, 93.125),
+			["Position"] = Vector(-20.509887695313, 38.594604492188, 2.136962890625),
+			["UniqueID"] = "1363375999",
+			["Bone"] = "lrigscull",
+			["Model"] = "models/props_pony/nurse_cap.mdl",
+			["ClassName"] = "model",
+		},
+	},
+	[4] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Angles"] = Angle(0, 3.78125, 90),
+			["Position"] = Vector(-9.541259765625, -13.73583984375, -21.371337890625),
+			["UniqueID"] = "3760650226",
+			["Size"] = 0.975,
+			["Bone"] = "lrigspine 2",
+			["Model"] = "models/player/items/all_class/pet_robro.mdl",
+			["ClassName"] = "model",
+		},
+	},
+	[5] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Angles"] = Angle(-1.8783017367241e-005, -11.53647518158, 90.000007629395),
+			["Position"] = Vector(-3.4454956054688, 46.494354248047, 0.0030517578125),
+			["UniqueID"] = "81337724",
+			["Bone"] = "lrigscull",
+			["Model"] = "models/props_pony/flitter_bow.mdl",
+			["ClassName"] = "model",
+		},
+	},
+},
+["self"] = {
+	["ClassName"] = "group",
+	["UniqueID"] = "3324754661",
+	["EditorExpand"] = true,
+},
