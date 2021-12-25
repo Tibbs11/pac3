@@ -1,0 +1,182 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1227507350",
+						["Name"] = "HairFront/Color1",
+						["Material"] = "https://i.imgur.com/mf4DJtY.png",
+						["Size"] = 0.775,
+						["Angles"] = Angle(-85.30500793457, 110.11236572266, 135.90525817871),
+						["ClassName"] = "model",
+						["Bone"] = "mane 01",
+						["Model"] = "https://www.dropbox.com/s/8r3fnded5f9u31u/HairFront.obj?dl=1",
+						["Position"] = Vector(6.112548828125, 40.59375, -2.5018920898438),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1047567625",
+						["Name"] = "HairFront/Color2",
+						["Material"] = "https://i.imgur.com/OZbzCQY.png",
+						["Size"] = 0.775,
+						["Angles"] = Angle(-85.30500793457, 110.11236572266, 135.90525817871),
+						["ClassName"] = "model",
+						["Bone"] = "mane 01",
+						["Model"] = "https://www.dropbox.com/s/8r3fnded5f9u31u/HairFront.obj?dl=1",
+						["Position"] = Vector(6.112548828125, 40.59375, -2.5018920898438),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3898062667",
+				["Name"] = "HairFront",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "https://www.dropbox.com/s/r1tk4ertei111rk/Tail.obj?dl=1",
+						["Material"] = "https://i.imgur.com/bRsUQA5.png",
+						["UniqueID"] = "2956700421",
+						["Position"] = Vector(-12.775390625, -26.36328125, -0.01458740234375),
+						["Angles"] = Angle(-87.454925537109, -26.464071273804, 106.71740722656),
+						["Bone"] = "tail 01",
+						["Name"] = "Tail/Color2",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "https://www.dropbox.com/s/r1tk4ertei111rk/Tail.obj?dl=1",
+						["Material"] = "https://i.imgur.com/vqLZHIE.png",
+						["UniqueID"] = "1600666473",
+						["Position"] = Vector(-12.775390625, -26.36328125, -0.01458740234375),
+						["Angles"] = Angle(-87.454925537109, -26.464071273804, 106.71740722656),
+						["Bone"] = "tail 01",
+						["Name"] = "Tail/Color1",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3578405888",
+				["Name"] = "Tail",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "789213529",
+						["Name"] = "HairBack/Color1",
+						["Material"] = "https://i.imgur.com/MUTv8rc.png",
+						["Size"] = 0.775,
+						["Angles"] = Angle(68.751991271973, -165.35816955566, 45.73518371582),
+						["ClassName"] = "model",
+						["Bone"] = "mane 02",
+						["Model"] = "https://www.dropbox.com/s/d7n0gb5agq579ad/HairBack.obj?dl=1",
+						["Position"] = Vector(-23.88037109375, 20.156494140625, 6.99853515625),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4931314",
+						["Name"] = "HairBack/Color2",
+						["Material"] = "https://i.imgur.com/y6O28mw.png",
+						["Size"] = 0.775,
+						["Angles"] = Angle(68.751991271973, -165.35816955566, 45.73518371582),
+						["ClassName"] = "model",
+						["Bone"] = "mane 02",
+						["Model"] = "https://www.dropbox.com/s/d7n0gb5agq579ad/HairBack.obj?dl=1",
+						["Position"] = Vector(-23.88037109375, 20.156494140625, 6.99853515625),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2111155267",
+				["Name"] = "HairBack",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Name"] = "Then choose the color of Parts 1 and 2",
+												["ClassName"] = "text",
+												["UniqueID"] = "4208667869",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Name"] = "If nothing has changed when setting alpha, set \"alpha\" to 0.999 for Part 1",
+										["ClassName"] = "text",
+										["UniqueID"] = "642512904",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Name"] = "Select the part with color2 and set the \"alpha\" value to 0.999",
+								["ClassName"] = "text",
+								["UniqueID"] = "1265493901",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["UniqueID"] = "1065952234",
+						["Name"] = "Please, read instructions below.",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["UniqueID"] = "861077275",
+						["Name"] = "Credit to Ponylumen",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2820450947",
+				["Name"] = "Info",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Nurse Redheart",
+		["ClassName"] = "group",
+		["UniqueID"] = "878189702",
+		["Description"] = "add parts to me!",
+	},
+},
