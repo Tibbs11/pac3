@@ -1,0 +1,1516 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "4020755372",
+				["Scale"] = Vector(0.60000002384186, 0.5, 0.5),
+				["Angles"] = Angle(6, 13.10000038147, 0),
+				["EditorExpand"] = true,
+				["Size"] = 0.1,
+				["Position"] = Vector(3, 0.80000001192093, 0),
+				["Color"] = Vector(255, 127, 223),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(1.8999999761581, 1.1000000238419, 0),
+				["Model"] = "models/maxofs2d/balloon_classic.mdl",
+				["Angles"] = Angle(-93.800003051758, 0, 0),
+				["Scale"] = Vector(1.1000000238419, 1, 0.80000001192093),
+				["EditorExpand"] = true,
+				["ClassName"] = "model",
+				["Size"] = 0.36,
+				["Material"] = "models/debug/debugwhite",
+				["Color"] = Vector(255, 0, 191),
+				["Bone"] = "lrigpelvis",
+				["Brightness"] = 1.1,
+				["UniqueID"] = "1202737290",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["Position"] = Vector(-6.5144653320313, -6.4163818359375, 0.5010986328125),
+				["Size"] = 0.35,
+				["Bone"] = "tail 03",
+				["UniqueID"] = "2769747238",
+				["Scale"] = Vector(0.10000000149012, 0.10000000149012, 0.10000000149012),
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["UniqueID"] = "3311453230",
+				["Bone"] = "mane 01",
+				["Size"] = 0.45,
+				["Position"] = Vector(1.865478515625, 0.16867065429688, -0.52252197265625),
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1612431218",
+				["Scale"] = Vector(0.30000001192093, 0.69999998807907, 0.89999997615814),
+				["Position"] = Vector(0, 0.80000001192093, -1.6000000238419),
+				["Material"] = "models/shiny",
+				["Size"] = 0.125,
+				["ClassName"] = "model",
+				["Color"] = Vector(0, 63, 255),
+				["Bone"] = "lrigpelvis",
+				["Model"] = "models/hunter/blocks/cube025x025x025.mdl",
+				["AngleOffset"] = Angle(-20.39999961853, 1.7999999523163, -11.60000038147),
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "4100571203",
+				["Scale"] = Vector(0.40000000596046, 1.1000000238419, 1.3999999761581),
+				["Angles"] = Angle(-2.0999999046326, 15.10000038147, 0),
+				["EditorExpand"] = true,
+				["Size"] = 0.075,
+				["Position"] = Vector(2.7000000476837, 0.80000001192093, 0),
+				["Color"] = Vector(0, 161, 255),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["UniqueID"] = "1495182996",
+				["Bone"] = "tail 01",
+				["Size"] = 0.125,
+				["Scale"] = Vector(0.10000000149012, 0.10000000149012, 0.10000000149012),
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Size"] = 0.475,
+				["Bone"] = "mane 02",
+				["UniqueID"] = "2761747188",
+				["ClassName"] = "bone",
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Size"] = 0.675,
+				["ClassName"] = "entity",
+				["UniqueID"] = "2260315979",
+				["Scale"] = Vector(0.40000000596046, 0.40000000596046, 0.40000000596046),
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "340475748",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+				["Angles"] = Angle(6, 13.10000038147, 0),
+				["EditorExpand"] = true,
+				["Size"] = 0.025,
+				["Position"] = Vector(2.9000000953674, 0.80000001192093, 0.60000002384186),
+				["Color"] = Vector(255, 127, 223),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "303273735",
+				["Scale"] = Vector(0.30000001192093, 0.69999998807907, 0.89999997615814),
+				["Position"] = Vector(-0.20000000298023, 0.80000001192093, 1.2999999523163),
+				["Material"] = "models/shiny",
+				["Size"] = 0.125,
+				["ClassName"] = "model",
+				["Color"] = Vector(0, 63, 255),
+				["Bone"] = "lrigpelvis",
+				["Model"] = "models/hunter/blocks/cube025x025x025.mdl",
+				["AngleOffset"] = Angle(27, -1.2000000476837, 10.10000038147),
+			},
+		},
+		[12] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["UniqueID"] = "2595712597",
+				["Bone"] = "tail 02",
+				["Size"] = 0.075,
+				["Scale"] = Vector(0.10000000149012, 0.10000000149012, 0.10000000149012),
+			},
+		},
+		[13] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "575038570",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+				["Angles"] = Angle(6, 13.10000038147, 0),
+				["EditorExpand"] = true,
+				["Size"] = 0.025,
+				["Position"] = Vector(2.9000000953674, 0.80000001192093, -0.60000002384186),
+				["Color"] = Vector(249, 109, 214),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "4173485114",
+		["Description"] = "add parts to me!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-10.4013671875, 0.9921875, 31.556137084961),
+						["Name"] = "Alice",
+						["Angles"] = Angle(-3.2381110191345, 85.737884521484, 90.241180419922),
+						["Size"] = 0.4,
+						["ClassName"] = "text",
+						["Color"] = Vector(255, 0, 225),
+						["OutlineColor"] = Vector(255, 93, 0),
+						["UniqueID"] = "366645159",
+						["Text"] = "Alice's First PAC! Also Im Up For Adoption",
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_flashlight_on",
+				["ClassName"] = "event",
+				["Invert"] = true,
+				["UniqueID"] = "844776361",
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "871899664",
+		["ClassName"] = "group",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "5",
+						["UniqueID"] = "3814139001",
+						["Event"] = "timerx",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 15,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "3991053277",
+						["InputMultiplier"] = 1.5,
+						["EditorExpand"] = true,
+						["Min"] = -15,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(11.816387176514, 0, 0),
+				["UniqueID"] = "540499290",
+				["Bone"] = "tail 02",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 10,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "1317763550",
+						["InputMultiplier"] = 1.5,
+						["EditorExpand"] = true,
+						["Min"] = -10,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "5",
+						["UniqueID"] = "3236148181",
+						["Event"] = "timerx",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(7.8775916099548, 0, 0),
+				["UniqueID"] = "933141845",
+				["Bone"] = "tail 03",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = -40,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "781279161",
+						["InputDivider"] = 2,
+						["Axis"] = "y",
+						["Pow"] = 25,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timerx",
+						["Arguments"] = "5",
+						["UniqueID"] = "2892273140",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(0, -0.00080631842138246, 0),
+				["UniqueID"] = "4062385586",
+				["Bone"] = "lrig lefteg fl metacarpus",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 2,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "1532971581",
+						["InputMultiplier"] = 2,
+						["Min"] = -2,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "5",
+						["UniqueID"] = "3304966909",
+						["Event"] = "timerx",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(1.8709142208099, 0, 0),
+				["UniqueID"] = "3348162775",
+				["Bone"] = "mane 04",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timerx",
+						["Arguments"] = "5",
+						["UniqueID"] = "3582316808",
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 10,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "587374203",
+						["InputDivider"] = 2,
+						["Axis"] = "y",
+						["Pow"] = 25,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(0, 0.00020157960534561, 0),
+				["UniqueID"] = "887001403",
+				["Bone"] = "lrig lefteg fl humerus",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3761592658",
+				["Event"] = "speed",
+				["Operator"] = "equal or below",
+				["Arguments"] = "10",
+				["Invert"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timerx",
+						["Arguments"] = "5",
+						["UniqueID"] = "1110799851",
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 50,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2139296100",
+						["InputDivider"] = 2,
+						["Axis"] = "y",
+						["Pow"] = 25,
+						["EditorExpand"] = true,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(0, 0.0010078980121762, 0),
+				["UniqueID"] = "3543005430",
+				["Bone"] = "lrig lefteg fl rightadius",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timerx",
+						["Arguments"] = "5",
+						["UniqueID"] = "2850396343",
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = -50,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2900577439",
+						["InputDivider"] = 2,
+						["Axis"] = "y",
+						["Pow"] = 25,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(0, -0.0010078980121762, 0),
+				["UniqueID"] = "2605416810",
+				["Bone"] = "lrig lefteg fl phalangesmanus",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[9] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timerx",
+						["Arguments"] = "5",
+						["UniqueID"] = "3237572360",
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 4,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "872072947",
+						["InputMultiplier"] = 2,
+						["Min"] = -4,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(3.7418284416199, 0, 0),
+				["UniqueID"] = "260881565",
+				["Bone"] = "mane 02",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[10] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "5",
+						["UniqueID"] = "2648780891",
+						["Event"] = "timerx",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 3,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "126162006",
+						["InputMultiplier"] = 2,
+						["Min"] = -4,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(2.7740998268127, 0, 0),
+				["UniqueID"] = "129498903",
+				["Bone"] = "mane 07",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[11] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 15,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2243727883",
+						["InputMultiplier"] = 1.5,
+						["EditorExpand"] = true,
+						["Min"] = -15,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "5",
+						["UniqueID"] = "3274831063",
+						["Event"] = "timerx",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(11.816387176514, 0, 0),
+				["UniqueID"] = "1434531811",
+				["Bone"] = "tail 01",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[12] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 4,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2662464336",
+						["InputMultiplier"] = 2,
+						["EditorExpand"] = true,
+						["Min"] = -4,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timerx",
+						["Arguments"] = "5",
+						["UniqueID"] = "1472952711",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(3.7418284416199, 0, 0),
+				["UniqueID"] = "3689367627",
+				["Bone"] = "mane 05",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[13] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timerx",
+						["Arguments"] = "5",
+						["UniqueID"] = "2454349416",
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 4,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2195017274",
+						["InputMultiplier"] = 2,
+						["EditorExpand"] = true,
+						["Min"] = -4,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(3.7418284416199, 0, 0),
+				["UniqueID"] = "79120130",
+				["Bone"] = "lrigneck 2",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[14] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 2,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "3816702713",
+						["InputMultiplier"] = 2,
+						["EditorExpand"] = true,
+						["Min"] = -2,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timerx",
+						["Arguments"] = "5",
+						["UniqueID"] = "2611439468",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(1.8709142208099, 0, 0),
+				["UniqueID"] = "2261143113",
+				["Bone"] = "mane 06",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Idle Animation",
+		["ClassName"] = "group",
+		["UniqueID"] = "1781584540",
+		["Hide"] = true,
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "ogg",
+								["UniqueID"] = "1287342685",
+								["URL"] = "https://dl.dropboxusercontent.com/u/69169493/Oggs/boop.ogg",
+								["Volume"] = 2.025,
+								["Name"] = "boop",
+								["Pitch"] = 1.125,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "boop@@0.4",
+						["Invert"] = true,
+						["Event"] = "say",
+						["UniqueID"] = "2937841967",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Boop",
+				["ClassName"] = "group",
+				["UniqueID"] = "3143603994",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3749842515",
+		["Name"] = "Batpone",
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2259454786",
+						["EditorExpand"] = true,
+						["Position"] = Vector(11.501708984375, 0.0013427734375, 0),
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -62.4375, 0),
+						["Position"] = Vector(-0.817626953125, -0.8671875, 0.085693359375),
+						["Bone"] = "lrig lefteg fl fronthoof",
+						["UniqueID"] = "1615805048",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-55.9375, 0, 0),
+						["Bone"] = "lrig lefteg fl metacarpus",
+						["UniqueID"] = "3922346122",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(11.78125, 78.71875, -15.53125),
+						["Position"] = Vector(-2.5081787109375, -0.34326171875, -0.73431396484375),
+						["Bone"] = "lrig lefteg fl humerus",
+						["UniqueID"] = "1044694281",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-35.71875, 143.1875, -106.71875),
+						["Position"] = Vector(0.7723388671875, -1.3826904296875, 1.6026611328125),
+						["Bone"] = "lrig lefteg fr humerus",
+						["UniqueID"] = "2372168642",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0.1875, 4.375, 35.03125),
+						["Position"] = Vector(-0.6220703125, 1.032470703125, -5.3550415039063),
+						["Bone"] = "lrigribcage",
+						["UniqueID"] = "507445843",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -19.875, 0),
+						["Position"] = Vector(-0.955810546875, -1.1477737426758, 0),
+						["Bone"] = "lrigspine 1",
+						["UniqueID"] = "3836794762",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(16.3125, 18.625, -0.875),
+						["Bone"] = "lrigneck",
+						["UniqueID"] = "643924505",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -7.6875, 0),
+						["Bone"] = "lrigspine 2",
+						["UniqueID"] = "2223202099",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(64.90625, -115.125, 0),
+						["Position"] = Vector(-1.1600341796875, -3.69482421875, 1.2637939453125),
+						["Bone"] = "lrig lefteg fr fronthoof",
+						["UniqueID"] = "2643893689",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(10.375, 18.0625, 59.46875),
+						["Bone"] = "lrig lefteg fr metacarpus",
+						["UniqueID"] = "3084134389",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "312073816",
+				["Arguments"] = "Hug@@1000",
+				["Event"] = "say",
+				["Operator"] = "equal",
+				["Name"] = "say equal\"Hug@@68.4\"",
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2864998897",
+		["Name"] = "hug",
+	},
+},
+[6] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["ClassName"] = "animation",
+						["UniqueID"] = "2843039957",
+						["SequenceName"] = "sit_mp_all",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(25.1875, -29.3125, -19.71875),
+						["UniqueID"] = "2863714000",
+						["Bone"] = "lrig lefteg fl rightadius",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-2.84375, 28.59375, -94.625),
+						["UniqueID"] = "170243601",
+						["Bone"] = "lrig lefteg fl metacarpus",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "878272295",
+						["Size"] = 0.2,
+						["Color"] = Vector(255, 93, 0),
+						["Bone"] = "lrigneck 2",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(1.78955078125, 1.3994140625, -0.2998046875),
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(20.71875, -134.9375, -132.5),
+						["Bone"] = "lrig lefteg br femur",
+						["UniqueID"] = "3095670071",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Max"] = 9,
+								["ClassName"] = "proxy",
+								["UniqueID"] = "3428397115",
+								["VariableName"] = "Angles",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(8.6956434249878, 30.28125, 34.3125),
+						["Position"] = Vector(-2.1859130859375, 2.5853271484375, 1.80712890625),
+						["Bone"] = "lrigneck 2",
+						["UniqueID"] = "2464653098",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(4.34375, 5.03125, 66.09375),
+						["Bone"] = "lrig lefteg fr rightadius",
+						["UniqueID"] = "320928935",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["Position"] = Vector(-0.1507568359375, 0.24421691894531, 0.225830078125),
+						["UniqueID"] = "4205430871",
+						["Bone"] = "lrig lefteg br tibia",
+						["Angles"] = Angle(16.875, 45.53125, 40.34375),
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "2244335567",
+						["Size"] = 0.2,
+						["Color"] = Vector(255, 93, 0),
+						["Bone"] = "lrigneck 2",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(1.87939453125, 1.3740234375, 0.4149169921875),
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-41.59375, -76.78125, 33.8125),
+						["Bone"] = "lrig lefteg bl femur",
+						["UniqueID"] = "3723753780",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(20.5625, 23.25, 0.84375),
+						["Position"] = Vector(1.5389404296875, 2.322021484375, 0.9150390625),
+						["Bone"] = "lrigneck",
+						["UniqueID"] = "1284430404",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 84.9375, 0),
+						["Bone"] = "lrig lefteg fr phalangesmanus",
+						["UniqueID"] = "3168087632",
+						["ClassName"] = "bone",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-31.96875, -7.59375, -50.21875),
+						["UniqueID"] = "1459911311",
+						["Bone"] = "lrigspine 1",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(8.09375, 31.6875, 82.90625),
+						["Position"] = Vector(-0.405517578125, -0.1412353515625, 3.4547548294067),
+						["UniqueID"] = "3733270481",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-71.78125, -39.28125, 41.75),
+						["Bone"] = "lrig lefteg fr humerus",
+						["UniqueID"] = "1742178814",
+						["ClassName"] = "bone",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "301247306",
+						["TintColor"] = Vector(255, 255, 255),
+						["Model"] = "models/props_junk/cardboard_box003b.mdl",
+						["Scale"] = Vector(0.69999998807907, 0.89999997615814, 0.5),
+						["Position"] = Vector(0.25146484375, 0.791748046875, -1.0850830078125),
+						["Material"] = "models/props_manor/table_01b",
+						["Size"] = 0.325,
+						["Angles"] = Angle(-13.09375, -19.96875, -96.125),
+						["Color"] = Vector(255, 0, 255),
+						["Bone"] = "lrig lefteg fr phalangesmanus",
+						["Brightness"] = 500,
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3700493817",
+				["Arguments"] = "zzz@@9999",
+				["Event"] = "say",
+				["Operator"] = "equal",
+				["Name"] = "say equal\"zzz@@86.2\"",
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "4136951896",
+		["Name"] = "sleep",
+	},
+},
+[7] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Arguments"] = "dtime@@100.4",
+				["Invert"] = true,
+				["Event"] = "say",
+				["UniqueID"] = "820064931",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Max"] = 11,
+				["ClassName"] = "animation",
+				["UniqueID"] = "1025490866",
+				["Rate"] = -0.63,
+				["SequenceName"] = "idle_all_angry",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3273903580",
+		["Name"] = "Dtime",
+	},
+},
+[8] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://dl.dropboxusercontent.com/s/yqjopfksuu5j9au/Boop2.txt",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "829910503",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "webaudio",
+						["UniqueID"] = "3538332281",
+						["URL"] = "https://dl.dropboxusercontent.com/s/zhr1xikmfjw35ly/boop.mp3",
+						["EditorExpand"] = true,
+						["Pitch"] = 1.301,
+						["Volume"] = 51.025,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1277279552",
+						["ClassName"] = "text",
+						["Angles"] = Angle(84.844741821289, 94.592254638672, 91.067855834961),
+						["Size"] = 0.1,
+						["OutlineColor"] = Vector(127, 0, 255),
+						["Color"] = Vector(255, 0, 225),
+						["Bone"] = "lrig lefteg fr fronthoof",
+						["Position"] = Vector(0.809814453125, 0.0589599609375, 0.11083984375),
+						["Text"] = "Boop!",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "611754549",
+				["Event"] = "button",
+				["Arguments"] = "b@@1.1",
+				["Name"] = "button find simple\"b@@1.1\"",
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "4199941354",
+		["Name"] = "Boop",
+	},
+},
+[9] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Overlapping"] = true,
+						["ClassName"] = "ogg",
+						["StopOnHide"] = true,
+						["URL"] = "https://dl.dropboxusercontent.com/u/273772442/smw_jump.ogg",
+						["UniqueID"] = "987411022",
+						["Name"] = "Jump",
+						["Volume"] = 4,
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_on_ground",
+				["EditorExpand"] = true,
+				["UniqueID"] = "3880569688",
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "219291936",
+		["Name"] = "JUMP",
+	},
+},
+[10] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = -20,
+						["Pow"] = 2,
+						["UniqueID"] = "2513657497",
+						["Axis"] = "y",
+						["Min"] = 30,
+						["VariableName"] = "Angles",
+						["Offset"] = 1,
+						["InputMultiplier"] = 5.1,
+						["ClassName"] = "proxy",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "kiss@@9999999999999",
+						["Invert"] = true,
+						["Event"] = "say",
+						["EditorExpand"] = true,
+						["UniqueID"] = "1853059672",
+						["Name"] = "say find simple\"kiss@@9999999999999\"",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(0, 27.66446685791, 0),
+				["Bone"] = "lrigscull",
+				["UniqueID"] = "596673778",
+				["ClassName"] = "bone",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "kiss@@1e+017",
+						["Invert"] = true,
+						["Event"] = "say",
+						["EditorExpand"] = true,
+						["UniqueID"] = "537303413",
+						["Name"] = "say find simple\"kiss@@1e+017\"",
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 4,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "361843076",
+						["InputMultiplier"] = 5.1,
+						["Axis"] = "y",
+						["Pow"] = 5,
+						["EditorExpand"] = true,
+						["VariableName"] = "Scale",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(3.2488708496094, 0.59783935546875, 0.033185958862305),
+				["Model"] = "models/pac/default.mdl",
+				["Scale"] = Vector(0.89999997615814, 3.7813563267264e-006, 1),
+				["ClassName"] = "model",
+				["AngleOffset"] = Angle(0, 90, 0),
+				["Size"] = 0.075,
+				["Material"] = "models/ihvtest/eyeball_l",
+				["Color"] = Vector(255, 127, 127),
+				["Bone"] = "lrigscull",
+				["Translucent"] = true,
+				["UniqueID"] = "3970134719",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1971747646",
+		["Name"] = "Lick",
+	},
+},
+[11] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "492676507",
+						["Position"] = Vector(7.235107421875, 4.5331726074219, 0.4794921875),
+						["Material"] = "models/debug/debugwhite",
+						["EditorExpand"] = true,
+						["Size"] = 0.4,
+						["Angles"] = Angle(89.718460083008, -78.496757507324, -0.00477807642892),
+						["Color"] = Vector(255, 93, 0),
+						["Bone"] = "lrigspine 1",
+						["Model"] = "models/balloons/balloon_classicheart.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/nqcr8ksd4gvq5tf/message.ogg?dl=0",
+						["ClassName"] = "webaudio",
+						["Name"] = "https://www.dropbox.com/s/nqcr8ksd4gvq5tf/message.ogg?dl=0",
+						["UniqueID"] = "1456201188",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2936765568",
+						["Name"] = "I Love You",
+						["Position"] = Vector(9.793701171875, 0.69216918945313, 0.7275390625),
+						["ClassName"] = "text",
+						["Size"] = 0.1,
+						["OutlineColor"] = Vector(0, 255, 255),
+						["Color"] = Vector(255, 0, 225),
+						["Bone"] = "lrigspine 1",
+						["Angles"] = Angle(-88.497985839844, 36.286273956299, 152.63334655762),
+						["Text"] = "I <3 You!",
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_crouching",
+				["ClassName"] = "event",
+				["Invert"] = true,
+				["UniqueID"] = "3468504261",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Squee",
+		["ClassName"] = "group",
+		["UniqueID"] = "2536265569",
+		["Description"] = "Please put your parts in groups!",
+	},
+},
+[12] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-45.125, 47.03125, -82.53125),
+						["Bone"] = "tail 01",
+						["UniqueID"] = "1084887484",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -47.96875, 0),
+						["Position"] = Vector(-0.375732421875, -0.33499145507813, 0.000244140625),
+						["Bone"] = "lrig lefteg br rightearhoof",
+						["UniqueID"] = "4152151851",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-15.4375, 61.03125, -3.78125),
+						["Bone"] = "lrig lefteg br femur",
+						["UniqueID"] = "3498096941",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -59.8125, 0),
+						["Bone"] = "lrig lefteg fr phalangesmanus",
+						["UniqueID"] = "1029356531",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -39.15625, 0),
+						["Bone"] = "lrig lefteg br tibia",
+						["UniqueID"] = "764007395",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4199949813",
+						["ClassName"] = "bone",
+						["Position"] = Vector(-1.7235107421875, -0.0062255859375, -20.03649520874),
+						["Angles"] = Angle(1.625, -70.40625, -4.625),
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 24.5625, 0),
+						["Position"] = Vector(1.1918334960938, 3.34521484375, -0.000244140625),
+						["Bone"] = "lrigneck",
+						["UniqueID"] = "841472203",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 67.28125, 0),
+						["Bone"] = "lrig lefteg bl femur",
+						["UniqueID"] = "50501587",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 6.4375, 0),
+						["Position"] = Vector(1.4093627929688, 4.2816162109375, -0.0050048828125),
+						["Bone"] = "lrigspine 2",
+						["UniqueID"] = "2444609257",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-20.46875, -58.84375, -5.6875),
+						["Position"] = Vector(-0.4462890625, -1.681396484375, 1.55126953125),
+						["Bone"] = "lrig lefteg bl rightearhoof",
+						["UniqueID"] = "505552837",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -55.84375, 0),
+						["Bone"] = "lrig lefteg fl phalangesmanus",
+						["UniqueID"] = "1620622541",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(25.5625, -45.6875, 0),
+						["Bone"] = "lrig lefteg bl tibia",
+						["UniqueID"] = "547117704",
+						["ClassName"] = "bone",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 10.25, 0),
+						["Position"] = Vector(2.4110107421875, 0.6275634765625, 0.00341796875),
+						["Bone"] = "lrigribcage",
+						["UniqueID"] = "2082360848",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "513782915",
+				["Arguments"] = "sits@@1000",
+				["Event"] = "say",
+				["Operator"] = "equal",
+				["Name"] = "say equal\"sits\"",
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "sit",
+		["ClassName"] = "group",
+		["UniqueID"] = "3821648174",
+		["Description"] = "add parts to me!",
+	},
+},

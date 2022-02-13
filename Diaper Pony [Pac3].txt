@@ -1,0 +1,25 @@
+[1] = {
+	["children"] = {
+	},
+	["self"] = {
+		["UniqueID"] = "3912062806",
+		["Name"] = "pony diaper",
+		["Material"] = "http://i.imgur.com/j4XuhOx.png",
+		["Size"] = 0.9,
+		["Angles"] = Angle(-90, -89.999900817871, 179.99998474121),
+		["ClassName"] = "model",
+		["Bone"] = "lrigpelvis",
+		["Model"] = "https://www.dropbox.com/s/dsn7kmmyftv5rs4/pony_diaper_v2_plainout.obj?dl=0",
+		["Position"] = Vector(-0.259521484375, 24.889282226563, 0.061248779296875),
+	},
+},
+[2] = {
+	["children"] = {
+	},
+	["self"] = {
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "3848888622",
+		["Description"] = "add parts to me!",
+	},
+},
