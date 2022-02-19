@@ -1,0 +1,111 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 7,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1353993562",
+										["InputDivider"] = 2,
+										["EditorExpand"] = true,
+										["VariableName"] = "Offset",
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 1.1,
+												["ClassName"] = "proxy",
+												["UniqueID"] = "4280504380",
+												["Input"] = "player_color_g",
+												["Min"] = 0.9,
+												["Function"] = "none",
+												["VariableName"] = "InputDivider",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 1.1,
+												["ClassName"] = "proxy",
+												["UniqueID"] = "1917179102",
+												["Input"] = "player_color_b",
+												["Min"] = 0.9,
+												["EditorExpand"] = true,
+												["Function"] = "none",
+												["VariableName"] = "InputMultiplier",
+											},
+										},
+									},
+									["self"] = {
+										["Max"] = 1.4,
+										["UniqueID"] = "3702121885",
+										["Min"] = 1.2,
+										["VariableName"] = "InputDivider",
+										["Offset"] = 0.1,
+										["EditorExpand"] = true,
+										["Input"] = "player_color_r",
+										["Function"] = "none",
+										["ClassName"] = "proxy",
+									},
+								},
+							},
+							["self"] = {
+								["Max"] = 4,
+								["Pow"] = 500,
+								["UniqueID"] = "4049033358",
+								["Axis"] = "y",
+								["Min"] = -3,
+								["VariableName"] = "Position",
+								["Offset"] = 3.6623714559472,
+								["InputDivider"] = 1.31,
+								["ClassName"] = "proxy",
+								["ResetVelocitiesOnHide"] = false,
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -90, 0),
+						["UniqueID"] = "3177179420",
+						["EditorExpand"] = true,
+						["Position"] = Vector(0.88012838363647, -3, 0.0869140625),
+						["ClassName"] = "clip",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(0.072509765625, -0.68505859375, 0.1895751953125),
+				["Model"] = "models/pac/default.mdl",
+				["Name"] = "Eyelids",
+				["Scale"] = Vector(0.80000001192093, 1, 1),
+				["EditorExpand"] = true,
+				["ClassName"] = "model",
+				["Size"] = 0.975,
+				["Angles"] = Angle(0, 1.125, 0),
+				["Color"] = Vector(145, 145, 145),
+				["Bone"] = "lrigscull",
+				["Translucent"] = true,
+				["UniqueID"] = "3138134159",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3096350569",
+		["ClassName"] = "group",
+		["Name"] = "Blinking eyes",
+		["Description"] = "add parts to me!",
+	},
+},
