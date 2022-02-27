@@ -1,0 +1,178 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3704901013",
+						["Name"] = "Mane/Color1",
+						["Position"] = Vector(-8.175048828125, 33.39013671875, 1.0592346191406),
+						["EditorExpand"] = true,
+						["Size"] = 0.825,
+						["ClassName"] = "model",
+						["Angles"] = Angle(-84.547546386719, -161.91435241699, 65.445167541504),
+						["Bone"] = "lrigscull",
+						["Model"] = "https://www.dropbox.com/s/xm2vfa3sek29gpy/HairFront.obj?dl=1",
+						["Material"] = "https://i.imgur.com/CfDdaE0.png",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3759818690",
+						["Name"] = "Mane/Color2",
+						["Position"] = Vector(-8.175048828125, 33.39013671875, 1.0592346191406),
+						["EditorExpand"] = true,
+						["Size"] = 0.825,
+						["ClassName"] = "model",
+						["Angles"] = Angle(-84.547546386719, -161.91435241699, 65.445167541504),
+						["Bone"] = "lrigscull",
+						["Model"] = "https://www.dropbox.com/s/xm2vfa3sek29gpy/HairFront.obj?dl=1",
+						["Material"] = "https://i.imgur.com/4YKWECC.png",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "181580034",
+						["Name"] = "Mane/Color3",
+						["Position"] = Vector(-8.175048828125, 33.39013671875, 1.0592346191406),
+						["EditorExpand"] = true,
+						["Size"] = 0.825,
+						["ClassName"] = "model",
+						["Angles"] = Angle(-84.547546386719, -161.91435241699, 65.445167541504),
+						["Bone"] = "lrigscull",
+						["Model"] = "https://www.dropbox.com/s/xm2vfa3sek29gpy/HairFront.obj?dl=1",
+						["Material"] = "https://i.imgur.com/uyYlHyI.png",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1267337500",
+				["Name"] = "Mane",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3239061645",
+						["Name"] = "Tail/Color1",
+						["EditorExpand"] = true,
+						["Position"] = Vector(-10.703000068665, -26.541000366211, -0.67500001192093),
+						["ClassName"] = "model",
+						["Angles"] = Angle(-88.364448547363, -96.452445983887, 178.98463439941),
+						["Bone"] = "tail 01",
+						["Model"] = "https://www.dropbox.com/s/9jrrk9exwzc2flz/Tail.obj?dl=1",
+						["Material"] = "https://i.imgur.com/0C8nsCI.png",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4727690",
+						["Name"] = "Tail/Color2",
+						["EditorExpand"] = true,
+						["Position"] = Vector(-10.703000068665, -26.541000366211, -0.67500001192093),
+						["ClassName"] = "model",
+						["Angles"] = Angle(-88.364448547363, -96.452445983887, 178.98463439941),
+						["Bone"] = "tail 01",
+						["Model"] = "https://www.dropbox.com/s/9jrrk9exwzc2flz/Tail.obj?dl=1",
+						["Material"] = "https://i.imgur.com/t8Oi05j.png",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2043658510",
+						["Name"] = "Tail/Color3",
+						["EditorExpand"] = true,
+						["Position"] = Vector(-10.703000068665, -26.541000366211, -0.67500001192093),
+						["ClassName"] = "model",
+						["Angles"] = Angle(-88.364448547363, -96.452445983887, 178.98463439941),
+						["Bone"] = "tail 01",
+						["Model"] = "https://www.dropbox.com/s/9jrrk9exwzc2flz/Tail.obj?dl=1",
+						["Material"] = "https://i.imgur.com/c53XsMe.png",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2660757162",
+				["Name"] = "Tail",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["UniqueID"] = "861077275",
+						["Name"] = "Credit to Ponylumen",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Name"] = "Then choose a color of parts",
+												["ClassName"] = "text",
+												["UniqueID"] = "4208667869",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Name"] = "If nothing has changed when setting alpha, set \"alpha\" to 0.999 for other parts, but not more than for 2's",
+										["ClassName"] = "text",
+										["UniqueID"] = "642512904",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Name"] = "Select the part with color2, color 3 and set the \"alpha\" value to 0.999",
+								["ClassName"] = "text",
+								["UniqueID"] = "1265493901",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["UniqueID"] = "1065952234",
+						["Name"] = "Please, read instructions below.",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2820450947",
+				["Name"] = "Info",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Lightning Dust",
+		["ClassName"] = "group",
+		["UniqueID"] = "1064040916",
+		["Description"] = "add parts to me!",
+	},
+},
