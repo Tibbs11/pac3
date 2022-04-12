@@ -1,0 +1,60 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["UniqueID"] = "894319952",
+				["Model"] = "models/player/gman_high.mdl",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Player Model",
+		["ClassName"] = "group",
+		["UniqueID"] = "363136273",
+		["Description"] = "add parts to me!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "http://puu.sh/pOCeK/cb0d1c542a.txt",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "1520166301",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 0.9,
+						["ClassName"] = "animation",
+						["UniqueID"] = "2882290994",
+						["Rate"] = 0.71,
+						["SequenceName"] = "idle_all_01",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "squat",
+				["UniqueID"] = "3121738381",
+				["Event"] = "command",
+				["ClassName"] = "event",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Squat here",
+		["ClassName"] = "group",
+		["UniqueID"] = "4061273958",
+		["EditorExpand"] = true,
+	},
+},

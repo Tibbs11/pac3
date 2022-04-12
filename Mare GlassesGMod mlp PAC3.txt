@@ -1,0 +1,212 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.6,
+				["Position"] = Vector(10.60400390625, -1.84619140625, 74.750411987305),
+				["Hide"] = true,
+				["Name"] = "Profile Name",
+				["Angles"] = Angle(0.625, 89.875, 88.625),
+				["Size"] = 0.7,
+				["UniqueID"] = "2417366869",
+				["Color"] = Vector(0, 255, 255),
+				["OutlineColor"] = Vector(29, 0, 255),
+				["ClassName"] = "text",
+				["Text"] = "♥~KittyShy~♥",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.5,
+				["Position"] = Vector(10.383544921875, -1.731201171875, 84.129257202148),
+				["Hide"] = true,
+				["Name"] = "Credits (currently all hidden)",
+				["Angles"] = Angle(0.625, 89.875, 88.625),
+				["Size"] = 0.7,
+				["UniqueID"] = "2672288921",
+				["Color"] = Vector(0, 255, 255),
+				["OutlineColor"] = Vector(29, 0, 255),
+				["ClassName"] = "text",
+				["Text"] = "Creator of this PAC:",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.6,
+				["Position"] = Vector(10.789794921875, -1.9345703125, 66.86962890625),
+				["Hide"] = true,
+				["Name"] = "Profile Link",
+				["Angles"] = Angle(0.625, 89.875, 88.625),
+				["Size"] = 0.525,
+				["UniqueID"] = "3122200049",
+				["Color"] = Vector(0, 255, 255),
+				["OutlineColor"] = Vector(29, 0, 255),
+				["ClassName"] = "text",
+				["Text"] = "http://steamcommunity.com/profiles/76561198116791746/",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.6,
+				["Position"] = Vector(10.97216796875, -2.018798828125, 59.225227355957),
+				["Hide"] = true,
+				["Name"] = "Profile Link",
+				["Angles"] = Angle(0.625, 89.875, 88.625),
+				["Size"] = 0.675,
+				["UniqueID"] = "1726994271",
+				["Color"] = Vector(0, 255, 255),
+				["OutlineColor"] = Vector(29, 0, 255),
+				["ClassName"] = "text",
+				["Text"] = "!!PLEASE CREDIT ME!!",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Credits (PLEASE READ and DONT REMOVE)",
+		["ClassName"] = "group",
+		["UniqueID"] = "1633657310",
+		["Description"] = "add parts to me!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2466174129",
+						["Scale"] = Vector(0.5, 0.20000000298023, 0.20000000298023),
+						["Position"] = Vector(0.9130859375, -3.8623046875, -6.4126892089844),
+						["Material"] = "Models/debug/debugwhite",
+						["Size"] = 0.4,
+						["Angles"] = Angle(8.03125, 178.3125, -179.8125),
+						["Color"] = Vector(0, 0, 0),
+						["Bone"] = "lrigscull",
+						["Model"] = "models/props_phx/construct/wood/wood_boardx1.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "673085754",
+						["Scale"] = Vector(0.5, 0.40000000596046, 0.69999998807907),
+						["Position"] = Vector(5.972412109375, -2.9462890625, 4.0928039550781),
+						["Material"] = "Models/debug/debugwhite",
+						["Size"] = 0.1,
+						["Angles"] = Angle(72.8125, -12.375, 179.875),
+						["Color"] = Vector(0, 0, 0),
+						["Bone"] = "lrigscull",
+						["Model"] = "models/props_phx/construct/metal_wire2x2b.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3142275168",
+						["Scale"] = Vector(0.5, 0.20000000298023, 0.20000000298023),
+						["Position"] = Vector(0.44921875, -3.87109375, 7.2083740234375),
+						["Material"] = "Models/debug/debugwhite",
+						["Size"] = 0.4,
+						["Angles"] = Angle(-10.46875, 176.375, -179.9375),
+						["Color"] = Vector(0, 0, 0),
+						["Bone"] = "lrigscull",
+						["Model"] = "models/props_phx/construct/wood/wood_boardx1.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(6.08056640625, -3.119140625, -3.5293884277344),
+						["Model"] = "models/props_phx/construct/glass/glass_plate1x1.mdl",
+						["Scale"] = Vector(0.89999997615814, 0.69999998807907, 1),
+						["Brightness"] = 10.2,
+						["ClassName"] = "model",
+						["Size"] = 0.1,
+						["Angles"] = Angle(80.4375, 168.90625, -178.9375),
+						["Material"] = "models/props_combine/health_charger_glass",
+						["Bone"] = "lrigscull",
+						["Translucent"] = true,
+						["UniqueID"] = "250529107",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(5.626220703125, -2.875, 4.0299377441406),
+						["Model"] = "models/props_phx/construct/glass/glass_plate1x1.mdl",
+						["Scale"] = Vector(0.89999997615814, 0.69999998807907, 1),
+						["Brightness"] = 10.2,
+						["ClassName"] = "model",
+						["Size"] = 0.1,
+						["Angles"] = Angle(71.53125, -12.59375, -0.53125),
+						["Material"] = "models/props_combine/health_charger_glass",
+						["Bone"] = "lrigscull",
+						["Translucent"] = true,
+						["UniqueID"] = "276649003",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2508125677",
+						["Scale"] = Vector(0.30000001192093, 0.30000001192093, 0.10000000149012),
+						["Position"] = Vector(4.473388671875, -2.3544921875, 0.20669555664063),
+						["Material"] = "Models/debug/debugwhite",
+						["Size"] = 0.1,
+						["Angles"] = Angle(-44.40625, 176.4375, -90.03125),
+						["Color"] = Vector(0, 0, 0),
+						["Bone"] = "lrigscull",
+						["Model"] = "models/hunter/tubes/tube4x4x1d.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2805481823",
+						["Scale"] = Vector(0.5, 0.40000000596046, 0.69999998807907),
+						["Position"] = Vector(6.3623046875, -3.1630859375, -3.7269592285156),
+						["Material"] = "Models/debug/debugwhite",
+						["Size"] = 0.1,
+						["Angles"] = Angle(80.59375, 167.90625, 0.1875),
+						["Color"] = Vector(0, 0, 0),
+						["Bone"] = "lrigscull",
+						["Model"] = "models/props_phx/construct/metal_wire2x2b.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3108558885",
+				["Name"] = "Glasses for Mares",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1500396469",
+		["ClassName"] = "group",
+		["Name"] = ":p",
+		["Description"] = "add parts to me!",
+	},
+},

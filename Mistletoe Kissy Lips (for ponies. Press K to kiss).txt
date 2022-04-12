@@ -1,0 +1,270 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "3037212823",
+								["Axis"] = "y",
+								["InputMultiplier"] = 18,
+								["Min"] = 0.7,
+								["VariableName"] = "Scale",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(9.1318359375, 2.1966552734375, 0.443359375),
+						["Scale"] = Vector(1, 0.80006545782089, 0.69999998807907),
+						["Model"] = "https://www.dropbox.com/s/prkhmnpz7lfzcfi/lips_kiss3.obj?dl=0",
+						["ClassName"] = "model",
+						["Angles"] = Angle(3.9700480556348e-05, 15.481287002563, -179.99995422363),
+						["Material"] = "models/debug/debugwhite",
+						["Color"] = Vector(255, 0, 119),
+						["Bone"] = "lrigscull",
+						["Translucent"] = true,
+						["UniqueID"] = "3443524355",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["MaxPitch"] = 0.1,
+								["ClassName"] = "ogg",
+								["UniqueID"] = "785543455",
+								["Radius"] = 500,
+								["URL"] = "https://www.dropbox.com/s/d41w8plcey3eiwk/cartoon%20kiss%201.ogg?dl=0",
+								["Doppler"] = true,
+								["Name"] = "cartoon%20kiss%201",
+								["MinPitch"] = -0.1,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "kiss@@3",
+						["Invert"] = true,
+						["Event"] = "command",
+						["UniqueID"] = "1475772679",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1285662594",
+				["Name"] = "lips",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "4042678369",
+								["Event"] = "button",
+								["Arguments"] = "k",
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "command",
+						["UniqueID"] = "3487625488",
+						["String"] = "pac_event kiss",
+						["Name"] = "kiss action",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1845289655",
+				["Name"] = "Kiss Action Button",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "model",
+														["UniqueID"] = "2625134301",
+														["EditorExpand"] = true,
+														["Color"] = Vector(127, 0, 0),
+														["Size"] = 0.15,
+														["Model"] = "models/pac/default.mdl",
+														["Position"] = Vector(1.601318359375, 1.330078125, -0.0048828125),
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Model"] = "https://www.dropbox.com/s/9jonevkwew3c9rg/mistletoe_leaf1.obj?dl=0",
+														["ClassName"] = "model",
+														["UniqueID"] = "914118799",
+														["Size"] = 0.55,
+														["Color"] = Vector(0, 127, 31),
+														["Material"] = "models/debug/debugwhite",
+														["Name"] = "leaf 1",
+														["Angles"] = Angle(-3.6535627841949, -38.360546112061, 55.214912414551),
+													},
+												},
+												[3] = {
+													["children"] = {
+													},
+													["self"] = {
+														["UniqueID"] = "2752759017",
+														["Name"] = "leaf 1",
+														["Scale"] = Vector(0.69999998807907, 1, 1.2000000476837),
+														["ClassName"] = "model",
+														["Size"] = 0.4,
+														["Color"] = Vector(0, 127, 31),
+														["Material"] = "models/debug/debugwhite",
+														["Model"] = "https://www.dropbox.com/s/9jonevkwew3c9rg/mistletoe_leaf1.obj?dl=0",
+														["Angles"] = Angle(51.704597473145, 152.98263549805, 107.97740936279),
+													},
+												},
+												[4] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Model"] = "https://www.dropbox.com/s/9jonevkwew3c9rg/mistletoe_leaf1.obj?dl=0",
+														["ClassName"] = "model",
+														["UniqueID"] = "914118799",
+														["Size"] = 0.55,
+														["Color"] = Vector(0, 127, 31),
+														["Material"] = "models/debug/debugwhite",
+														["Name"] = "leaf 1",
+														["Angles"] = Angle(30.527868270874, 24.410692214966, 0.78514981269836),
+													},
+												},
+												[5] = {
+													["children"] = {
+													},
+													["self"] = {
+														["UniqueID"] = "914118799",
+														["Name"] = "leaf 1",
+														["Scale"] = Vector(0.69999998807907, 1, 1),
+														["ClassName"] = "model",
+														["Size"] = 0.55,
+														["Color"] = Vector(0, 127, 31),
+														["Material"] = "models/debug/debugwhite",
+														["Model"] = "https://www.dropbox.com/s/9jonevkwew3c9rg/mistletoe_leaf1.obj?dl=0",
+														["Angles"] = Angle(-21.580612182617, 23.744316101074, 39.338157653809),
+													},
+												},
+												[6] = {
+													["children"] = {
+													},
+													["self"] = {
+														["UniqueID"] = "1334542221",
+														["Name"] = "leaf 1",
+														["Scale"] = Vector(1, 1, 1.3999999761581),
+														["ClassName"] = "model",
+														["Size"] = 0.275,
+														["Color"] = Vector(0, 127, 31),
+														["Material"] = "models/debug/debugwhite",
+														["Model"] = "https://www.dropbox.com/s/9jonevkwew3c9rg/mistletoe_leaf1.obj?dl=0",
+														["Angles"] = Angle(-10.692329406738, -102.58751678467, 78.315811157227),
+													},
+												},
+											},
+											["self"] = {
+												["Model"] = "models/pac/default.mdl",
+												["ClassName"] = "model",
+												["UniqueID"] = "3170421752",
+												["Size"] = 0.15,
+												["Color"] = Vector(127, 0, 0),
+												["EditorExpand"] = true,
+												["Name"] = "plant group",
+												["Position"] = Vector(-0.00048828125, 12.0986328125, -0.0009765625),
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "4064501560",
+										["Scale"] = Vector(1, 1.5, 0.5),
+										["ClassName"] = "model",
+										["Size"] = 0.175,
+										["Angles"] = Angle(2.1557785657933e-05, -1.4407430171559e-05, 90),
+										["Color"] = Vector(0, 0, 0),
+										["Position"] = Vector(0.00537109375, -0.00244140625, 12.060546875),
+										["Model"] = "models/hunter/tubes/tube2x2x025c.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["JigglePosition"] = false,
+								["ClassName"] = "jiggle",
+								["UniqueID"] = "117203394",
+								["Speed"] = 3,
+								["EditorExpand"] = true,
+								["Strain"] = 0.8,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "3254854119",
+						["EditorExpand"] = true,
+						["Color"] = Vector(0, 0, 0),
+						["Size"] = 0.125,
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(-11.013061523438, 0.0009765625, 0.00390625),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1546932884",
+				["Name"] = "headband",
+				["Scale"] = Vector(1, 0.80000001192093, 0.60000002384186),
+				["Angles"] = Angle(1.8783022824209e-05, 66.177024841309, 90.000015258789),
+				["Size"] = 0.225,
+				["Position"] = Vector(-1.2822265625, -2.90283203125, 0),
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/hunter/tubes/tube2x2x025c.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "text",
+				["UniqueID"] = "1863719569",
+				["Name"] = "Creator:GearBell",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "464081399",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
