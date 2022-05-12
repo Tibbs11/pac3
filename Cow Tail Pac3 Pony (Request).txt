@@ -1,0 +1,185 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-2.9375, 0, 0),
+						["UniqueID"] = "3449478634",
+						["Size"] = 0.025,
+						["Bone"] = "j 6",
+						["ClassName"] = "bone",
+						["ScaleChildren"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-6, 0, 0),
+						["UniqueID"] = "4006569489",
+						["Bone"] = "j 5",
+						["Size"] = 0.025,
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["FollowAnglesOnly"] = true,
+						["ClassName"] = "bone",
+						["Position"] = Vector(6.103515625e-005, -0.000244140625, -2.217472076416),
+						["Size"] = 0.025,
+						["Bone"] = "j 8",
+						["UniqueID"] = "3650049941",
+						["Angles"] = Angle(-10.53125, 0, 0),
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-5.46875, 0, 0),
+						["UniqueID"] = "2520512790",
+						["Bone"] = "j 2",
+						["Size"] = 0.175,
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-10.25, 0, 0),
+						["UniqueID"] = "3314070923",
+						["Bone"] = "j 4",
+						["Size"] = 0.075,
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(-0.72899997234344, 0.26100000739098, 0.17499999701977),
+						["EditorExpand"] = true,
+						["Bone"] = "j 3",
+						["Angles"] = Angle(83.727317810059, -119.80495452881, -131.36877441406),
+						["UniqueID"] = "364224206",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["Position"] = Vector(3.0517578125e-005, 0.00048828125, 0.1693115234375),
+						["Size"] = 0.275,
+						["UniqueID"] = "3595843881",
+						["Bone"] = "j 1",
+						["Angles"] = Angle(10.5, 0, 2.5),
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-5.125, 0, 0),
+						["UniqueID"] = "2155710396",
+						["Bone"] = "j 3",
+						["Size"] = 0.05,
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-16.6875, 0, 0),
+						["Position"] = Vector(-3.0517578125e-005, 0.00048828125, -2.4473724365234),
+						["Size"] = 0.025,
+						["Bone"] = "j 7",
+						["UniqueID"] = "3350999155",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-0.22499999403954, 0, -3),
+						["Material"] = "http://puu.sh/eLp1B.jpg",
+						["Name"] = "Tail Fluff",
+						["Scale"] = Vector(1, 0.69999998807907, 0.69999998807907),
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["Size"] = 0.3,
+						["Angles"] = Angle(0, -90, 180),
+						["Color"] = Vector(17, 17, 17),
+						["Bone"] = "j 3",
+						["Model"] = "http://puu.sh/eoHmt.obj",
+						["UniqueID"] = "202734282",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "593975700",
+				["Angles"] = Angle(83.03125, 162.37504577637, -177.80870056152),
+				["ClassName"] = "model",
+				["Size"] = 0.4,
+				["Material"] = "models/debug/debugwhite",
+				["Color"] = Vector(84, 84, 84),
+				["Bone"] = "tail 01",
+				["Model"] = "models/pac/jiggle/base_jiggle_3.mdl",
+				["Position"] = Vector(-0.63134765625, -0.2041015625, -0.13063049316406),
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 10,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "3991053277",
+						["InputMultiplier"] = 2,
+						["Axis"] = "x",
+						["EditorExpand"] = true,
+						["Min"] = -10,
+						["VariableName"] = "AngleOffset",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "5",
+						["UniqueID"] = "3814139001",
+						["Event"] = "timerx",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(1.9117457866669, 0, 0),
+				["Position"] = Vector(0.9676513671875, 0.37018585205078, 0.00042724609375),
+				["Bone"] = "tail 01",
+				["UniqueID"] = "540499290",
+				["ClassName"] = "bone",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "CowTail",
+		["ClassName"] = "group",
+		["UniqueID"] = "943289099",
+		["Description"] = "add parts to me!",
+	},
+},
