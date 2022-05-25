@@ -1,0 +1,210 @@
+[0] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "369934456",
+				["Angles"] = Angle(-59.332515716553, -90.007827758789, -65.83943939209),
+				["ClassName"] = "model",
+				["Size"] = 0.75,
+				["Material"] = "models/shiny",
+				["Color"] = Vector(36, 36, 36),
+				["Bone"] = "lrigspine 1",
+				["Model"] = "https://fxuser.tk/musor/mp40.obj",
+				["Position"] = Vector(1.90869140625, 1.5383911132813, 6.2685546875),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.12722605466843, 15.364000320435, 11.954430580139),
+				["UniqueID"] = "564725114",
+				["Bone"] = "mane 01",
+				["ClassName"] = "bone",
+				["Scale"] = Vector(1, 0.60000002384186, 0.89999997615814),
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "custom_animation",
+										["UniqueID"] = "1074169266",
+										["URL"] = "https://fxuser.tk/musor/Remade%20Idle%20Anim.txt",
+										["AnimationType"] = "stance",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 4,
+												["ClassName"] = "proxy",
+												["UniqueID"] = "2195017274",
+												["InputMultiplier"] = 2,
+												["EditorExpand"] = true,
+												["Min"] = -4,
+												["VariableName"] = "AngleOffset",
+											},
+										},
+									},
+									["self"] = {
+										["AngleOffset"] = Angle(-2.5811591148376, 0, 0),
+										["Bone"] = "lrigneck 2",
+										["UniqueID"] = "79120130",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "3907290095",
+								["Hide"] = true,
+								["Name"] = "1625727522 1625727522 Idle",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 10,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "587374203",
+										["InputDivider"] = 2,
+										["Axis"] = "y",
+										["Pow"] = 25,
+										["VariableName"] = "AngleOffset",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "887001403",
+								["Bone"] = "lrig lefteg fl humerus",
+								["AngleOffset"] = Angle(0, 8.2495975494385, 0),
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "3761592658",
+						["Event"] = "speed",
+						["Operator"] = "equal or below",
+						["Arguments"] = "10",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "502030508",
+				["Name"] = "1625727522 1625727522 Anim",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-77.185791015625, -88.1181640625, -13.815956115723),
+				["UniqueID"] = "781551819",
+				["Size"] = 1.775,
+				["Position"] = Vector(-3.7214965820313, -2.81396484375, 1.4878234863281),
+				["Bone"] = "lrigscull",
+				["Model"] = "https://fxuser.tk/musor/NaziCapO.obj",
+				["Material"] = "https://fxuser.tk/musor/NaziCap.png",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 7,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1353993562",
+										["InputDivider"] = 2,
+										["EditorExpand"] = true,
+										["VariableName"] = "Offset",
+									},
+								},
+							},
+							["self"] = {
+								["Max"] = 4,
+								["Pow"] = 100,
+								["UniqueID"] = "4049033358",
+								["Axis"] = "y",
+								["Input"] = "timeex",
+								["VariableName"] = "Position",
+								["Offset"] = 6.9829691639531,
+								["InputDivider"] = 1.3,
+								["Min"] = -1,
+								["EditorExpand"] = true,
+								["ResetVelocitiesOnHide"] = false,
+								["ClassName"] = "proxy",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["Position"] = Vector(-42.662998199463, -1, 0.3836669921875),
+						["EditorExpand"] = true,
+						["Bone"] = "invalidbone",
+						["Angles"] = Angle(-4.9518876039656e-05, -88.153594970703, -0.002067840192467),
+						["UniqueID"] = "3177179420",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(-1.1064453125, -1.68310546875, 0.177734375),
+				["TintColor"] = Vector(255, 255, 255),
+				["Name"] = "1625727522 1625727522 Eyelids",
+				["Angles"] = Angle(0.00099293899256736, -12.84334564209, -0.0020985761657357),
+				["ClassName"] = "model",
+				["Size"] = 0.832,
+				["EditorExpand"] = true,
+				["Color"] = Vector(118, 0, 0),
+				["Bone"] = "lrigscull",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "3138134159",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Material"] = "https://fxuser.tk/musor/FXisCool.png",
+				["ClassName"] = "submaterial",
+				["UniqueID"] = "4114870997",
+				["SubMaterialId"] = 3,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3511377582",
+		["ClassName"] = "group",
+		["Name"] = "1625727522 1625727522 SAS",
+		["Description"] = "добавь частей ко мне!",
+	},
+},
