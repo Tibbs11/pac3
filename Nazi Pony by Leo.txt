@@ -1,0 +1,358 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(6.1258258938324e-005, -72.036979675293, 6.4033025410026e-005),
+						["Position"] = Vector(-3.55859375, -2.705810546875, 0.00439453125),
+						["Bone"] = "lrig lefteg fr fronthoof",
+						["UniqueID"] = "3468510817",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(5.1226415962446e-005, 122.71742248535, 0.00019295285164844),
+						["Position"] = Vector(-3.3625106811523, -2.16552734375, -0.0009765625),
+						["Bone"] = "lrig lefteg fr humerus",
+						["UniqueID"] = "4197923237",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-8.5913190841675, -97.288078308105, 14.626449584961),
+						["Position"] = Vector(-0.1591796875, -1.656494140625, 1.00048828125),
+						["Bone"] = "lrig lefteg fr metacarpus",
+						["UniqueID"] = "1305515066",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "51853554",
+				["Event"] = "button",
+				["Arguments"] = "k",
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "928358977",
+		["Name"] = "Press K to SS Salute",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 7,
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1353993562",
+										["InputDivider"] = 2,
+										["EditorExpand"] = true,
+										["VariableName"] = "Offset",
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 1.1,
+												["ClassName"] = "proxy",
+												["UniqueID"] = "1917179102",
+												["Input"] = "player_color_b",
+												["Min"] = 0.9,
+												["EditorExpand"] = true,
+												["Function"] = "none",
+												["VariableName"] = "InputMultiplier",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 1.1,
+												["ClassName"] = "proxy",
+												["UniqueID"] = "4280504380",
+												["Input"] = "player_color_g",
+												["Min"] = 0.9,
+												["Function"] = "none",
+												["VariableName"] = "InputDivider",
+											},
+										},
+									},
+									["self"] = {
+										["Max"] = 1.4,
+										["UniqueID"] = "3702121885",
+										["Min"] = 1.2,
+										["VariableName"] = "InputDivider",
+										["Offset"] = 0.1,
+										["InputMultiplier"] = 1.0627451002598,
+										["InputDivider"] = 1.0627451002598,
+										["ClassName"] = "proxy",
+										["Input"] = "player_color_r",
+										["Function"] = "none",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Max"] = 6,
+								["Pow"] = 500,
+								["UniqueID"] = "4049033358",
+								["Axis"] = "y",
+								["Name"] = "position = 0 proxy",
+								["VariableName"] = "Position",
+								["Offset"] = 4.9829187618566,
+								["InputDivider"] = 1.3106274510026,
+								["Min"] = -1,
+								["EditorExpand"] = true,
+								["ResetVelocitiesOnHide"] = false,
+								["ClassName"] = "proxy",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(0, -90, 0),
+						["UniqueID"] = "3177179420",
+						["EditorExpand"] = true,
+						["Position"] = Vector(0.14016723632813, -1, 0.08642578125),
+						["ClassName"] = "clip",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(0.42333984375, -2.15087890625, 0.18701171875),
+				["Model"] = "models/pac/default.mdl",
+				["Name"] = "Eyelids",
+				["Scale"] = Vector(0.80000001192093, 1, 1),
+				["EditorExpand"] = true,
+				["ClassName"] = "model",
+				["Size"] = 0.82,
+				["Angles"] = Angle(0, 1.125, 0),
+				["Color"] = Vector(79, 60, 9),
+				["Bone"] = "lrigscull",
+				["Translucent"] = true,
+				["UniqueID"] = "3138134159",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Blinking eyes",
+		["ClassName"] = "group",
+		["UniqueID"] = "3096350569",
+		["Description"] = "add parts to me!",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(4.7427368164063, -0.622802734375, 0.158935546875),
+				["Hide"] = true,
+				["Name"] = "Armband",
+				["Scale"] = Vector(1.0499999523163, 0.75800001621246, 0.69999998807907),
+				["Model"] = "http://puu.sh/jNr2N.obj",
+				["Angles"] = Angle(0, 86.40625, -89.96875),
+				["Size"] = 1.25,
+				["ClassName"] = "model",
+				["Material"] = "http://puu.sh/jGBnk.jpg",
+				["Bone"] = "lrig lefteg fl rightadius",
+				["Brightness"] = 3,
+				["UniqueID"] = "835602163",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "686390035",
+				["Name"] = "Holster",
+				["EditorExpand"] = true,
+				["Position"] = Vector(2.2774658203125, -0.8486328125, 2.031005859375),
+				["ClassName"] = "model",
+				["Angles"] = Angle(-47.0625, 70.625, -96.96875),
+				["Bone"] = "lrig lefteg br femur",
+				["Model"] = "http://puu.sh/jGBqd.obj",
+				["Material"] = "http://puu.sh/kV1Ll.jpg",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2235388769",
+				["Model"] = "http://puu.sh/jGBr5.obj",
+				["Name"] = "Hat",
+				["Position"] = Vector(-4.836669921875, -12.839111328125, 0),
+				["EditorExpand"] = true,
+				["Angles"] = Angle(-89.035934448242, -96.368362426758, 151.10084533691),
+				["Size"] = 1.675,
+				["PositionOffset"] = Vector(0, 0, -116.30000305176),
+				["Material"] = "http://puu.sh/kV1Ll.jpg",
+				["Bone"] = "lrigscull",
+				["Brightness"] = 8,
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Accesories",
+		["ClassName"] = "group",
+		["UniqueID"] = "3938436733",
+		["Description"] = "add parts to me!",
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(1.0800170898438, 1.92138671875, 2.6298828125),
+						["Angles"] = Angle(-0.5282918214798, -109.76656341553, 97.166404724121),
+						["UniqueID"] = "3587413343",
+						["Size"] = 0.775,
+						["EditorExpand"] = true,
+						["Bone"] = "lrig lefteg br femur",
+						["Model"] = "models/weapons/w_357.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "m",
+				["UniqueID"] = "1576252039",
+				["Event"] = "button",
+				["ClassName"] = "event",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2688355035",
+		["Name"] = "Press M to draw gun",
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(5.0372644182062e-005, 111.37203216553, 0.00010629482130753),
+						["Position"] = Vector(-2.6153564453125, -1.68505859375, -0.00048828125),
+						["UniqueID"] = "1520762135",
+						["Bone"] = "lrig lefteg fr humerus",
+						["Name"] = "lrig righteg fr humerus",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "l",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "753342309",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1847398797",
+		["Name"] = "Press L to Salute",
+	},
+},
+[6] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "394186839",
+						["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.40000000596046),
+						["Material"] = "models/props_combine/portalball001_sheet",
+						["Position"] = Vector(5.1659998893738, -13.785461425781, 0),
+						["Angles"] = Angle(89.999954223633, 119.76312255859, 0),
+						["Color"] = Vector(0, 255, 63),
+						["Bone"] = "lrigscull",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(47.197422027588, -5.0260837269889e-006, -1.5706513067926e-007),
+								["ClassName"] = "model",
+								["UniqueID"] = "623045191",
+								["Material"] = "models/props_combine/portalball001_sheet",
+								["Color"] = Vector(0, 255, 63),
+								["Position"] = Vector(1.84326171875, 0.00634765625, -0.82574462890625),
+								["Model"] = "models/pac/default.mdl",
+								["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.40000000596046),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(10.817626953125, 15.15869140625, 1.8056030273438),
+						["Angles"] = Angle(-2.6648392677307, -6.1032977104187, 3.0854947566986),
+						["UniqueID"] = "824092018",
+						["Size"] = 0.775,
+						["EditorExpand"] = true,
+						["Bone"] = "eyes",
+						["Model"] = "models/weapons/w_357.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "m",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "916296934",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2716288922",
+		["Name"] = "more gun part",
+	},
+},
