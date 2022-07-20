@@ -1,0 +1,25 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2657810369",
+				["Scale"] = Vector(1.1699999570847, 1, 1),
+				["Angles"] = Angle(-87.646087646484, 168.54005432129, -79.198852539063),
+				["Size"] = 1.05,
+				["Position"] = Vector(0.50201416015625, 28.505706787109, -0.45947265625),
+				["ClassName"] = "model",
+				["Bone"] = "lrigpelvis",
+				["Model"] = "https://puu.sh/vaKxt/c028091a73.obj",
+				["Material"] = "https://puu.sh/vaKVF/6448d7dae6.jpg",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "Cheerleader Outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "2553682014",
+		["EditorExpand"] = true,
+	},
+},
